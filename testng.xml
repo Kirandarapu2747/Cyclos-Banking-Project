@@ -9,9 +9,15 @@
       <class name="Cyclos_TestCases.Cyclos_LoginTest"/>
 
   <test thread-count="5" name="Test">
+PrabhavathiMallepally
+	  <classes>
+		  <class name="Cyclos_TestCases.LoginTest"></class>
+	  </classes>
+
     <classes>
       <class name="Cyclos_TestCases.Cyclos_TestCase"/>
  master
     </classes>
+master
   </test> <!-- Test -->
 </suite> <!-- Suite -->
