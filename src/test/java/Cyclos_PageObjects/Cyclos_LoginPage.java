@@ -7,6 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class Cyclos_LoginPage {
 	public static WebDriver driver;
+PrabhavathiMallepally
 	public Cyclos_LoginPage(WebDriver driver)
 	{
 		this.driver=driver;
@@ -37,4 +38,27 @@ public class Cyclos_LoginPage {
 		submit.click();
 	}
 
+	//Constructor creating
+	public Cyclos_LoginPage(WebDriver driver) {
+		this.driver=driver;
+		PageFactory.initElements(driver, this);
+	}
+	@FindBy(xpath="//input[@type='text']")
+	WebElement txtusername;
+	@FindBy(xpath="//input[@type='password']")
+	WebElement txtpassword;
+	@FindBy(xpath="//button[@type='button']/span")  
+	WebElement txtlogin;
+	
+	public void setUsername(String user) {
+		txtusername.sendKeys(user);
+	}
+	public void setPassword(String pwd) {
+		txtpassword.sendKeys(pwd);
+	}
+	public void ClickLoginBtn() {
+		txtlogin.click();
+master
+
+}
 }
