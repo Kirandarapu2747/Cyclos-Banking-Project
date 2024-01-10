@@ -11,6 +11,13 @@ public class Sample001 {
   public void sub() {
 	  System.out.println(x-y);
   }
+  
+  public void mul() {
+	  System.out.println(x*y);
+  }
+  public void div() {
+	  System.out.println(x/y);
+  }
 	
 	
 	
