@@ -7,15 +7,16 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 
-import Cyclos_Utilities.Cyclos_ReadConfig;
+import Cyclos_Utilities.Registration_ReadConfig;
 
-public class Cyclos_BaseClass {
-	public  WebDriver driver;
-    Cyclos_ReadConfig rc=new Cyclos_ReadConfig();
+public class Registration_BaseClass {
+	public WebDriver driver;
+	Registration_ReadConfig rc=new Registration_ReadConfig();
 	
 	public String URL=rc.ApplicationURL();
-	public String User=rc.Username();
-	public String Pword=rc.Password();
+	public String Name=rc.Name();
+	public String LoginName=rc.LoginName();
+	public String EMail=rc.EMail();
 	
 	@BeforeClass()
 	public void OpenApplication() {

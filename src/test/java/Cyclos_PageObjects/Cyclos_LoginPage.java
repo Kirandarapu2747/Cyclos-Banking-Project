@@ -19,6 +19,7 @@ public class Cyclos_LoginPage {
 	@FindBy(xpath="//button[@type='button']/span")  
 	WebElement txtlogin;
 	
+	
 	public void setUsername(String user) {
 		txtusername.sendKeys(user);
 	}
