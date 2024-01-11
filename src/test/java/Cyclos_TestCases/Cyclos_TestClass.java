@@ -16,8 +16,10 @@ public class Cyclos_TestClass extends Cyclos_BaseClass
 	Thread.sleep(2000);
 	clp.setPassword(Pword);
 	System.out.println("Password Entered");
+	Thread.sleep(2000);
 	clp.ClickLogin();
 	System.out.println("Login clicked");
+	Thread.sleep(2000);
 	}
 
 }

@@ -7,11 +7,11 @@ import org.openqa.selenium.support.PageFactory;
 
 public class Cyclos_LoginPage 
 {
-	public static WebDriver rdriver;
-	public Cyclos_LoginPage(WebDriver ldriver) 
+	public static WebDriver driver;
+	public Cyclos_LoginPage(WebDriver driver) 
 	{
-		ldriver=rdriver;
-		PageFactory.initElements(ldriver, this);
+		this.driver=driver;
+		PageFactory.initElements(driver, this);
 	}
 	@FindBy(xpath="//input[@type='text']")
 	WebElement username;
