@@ -69,9 +69,11 @@ public class Cyclos_RegistrationPage
 	}
 	public void Robot()
 	{
-		JavascriptExecutor jse=(JavascriptExecutor)driver;
-		jse.executeScript("arguments[0].click();",robot);
-		//robot.click();
+		/*
+		 * JavascriptExecutor jse=(JavascriptExecutor)driver;
+		 * jse.executeScript("arguments[0].click();",robot);
+		 */
+		robot.click();
 	}
 	public void ClickSubmit()
 	{
