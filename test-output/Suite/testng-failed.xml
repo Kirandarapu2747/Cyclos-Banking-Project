@@ -3,13 +3,13 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="Cyclos_TestCases.Cyclos_TestClass">
+      <class name="Cyclos_TestCases.Cyclos_RegisterTestClass">
         <methods>
-          <include name="LoginTest"/>
-          <include name="CloseApplication"/>
           <include name="OpenApplication"/>
+          <include name="CloseApplication"/>
+          <include name="RegisterTest"/>
         </methods>
-      </class> <!-- Cyclos_TestCases.Cyclos_TestClass -->
+      </class> <!-- Cyclos_TestCases.Cyclos_RegisterTestClass -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

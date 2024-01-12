@@ -34,7 +34,7 @@ public class Cyclos_RegisterBaseClass
 	public void CloseApplication()
 	{
 		driver.close();
-		System.out.println("Applicatio Closed");
+		System.out.println("Application Closed");
 	}
 	
 
