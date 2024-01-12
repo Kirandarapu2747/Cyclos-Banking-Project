@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="Cyclos_Utilities.Reporting"/>
+  </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="Cyclos_TestCases.Cyclos_RegisterTest">
+      <class name="Cyclos_TestCases.LoginTest">
         <methods>
-          <include name="RegisterTest"/>
-          <include name="OpenApplication"/>
+          <include name="LoginTest"/>
           <include name="CloseApplication"/>
+          <include name="OpenApplication"/>
         </methods>
-      </class> <!-- Cyclos_TestCases.Cyclos_RegisterTest -->
+      </class> <!-- Cyclos_TestCases.LoginTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
