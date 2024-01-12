@@ -31,7 +31,25 @@ public static WebDriver driver;
 	@FindBy(xpath="(//button[@type='button'])[9]")
 	WebElement btnnext;
 	
+	@FindBy(xpath="(//input[@type='password'])[1]")
+	WebElement txtpassword;
 
+	@FindBy(xpath="(//input[@type='password'])[2]")
+	WebElement txtconfirmpassword;
+	
+	@FindBy(xpath="//label[@class='custom-control-label']")
+	WebElement agreement;
+	
+	@FindBy(xpath="//iframe[@title='reCAPTCHA']")
+	WebElement frame;
+	
+	@FindBy(xpath="//div[@class='recaptcha-checkbox-border']")
+	WebElement robot;
+	
+	@FindBy(xpath="(//button[@type='button'])[2]")
+	WebElement submit;
+	
+	
 	//create corresponding methods
 	
 	public void setname(String nam) {
@@ -53,7 +71,34 @@ public static WebDriver driver;
 		
 	}
 	
+	public void setpassword(String pswrd) {
+		txtpassword.sendKeys(pswrd);
+		
+	}
 	
+	public void setconfirmpassword(String cpswrd) {
+		txtconfirmpassword.sendKeys(cpswrd);
+		
+	}
+	
+	public void Clickagreement()
+	{
+		agreement.click();
+	}
+	public void EnterFrame()
+	{
+		driver.switchTo().frame(0);
+	}
+	public void Robot()
+	{
+		
+		robot.click();
+		driver.switchTo().defaultContent();
+	}
+	public void ClickSubmit()
+	{
+		submit.click();
+	}
 	
 	
 	

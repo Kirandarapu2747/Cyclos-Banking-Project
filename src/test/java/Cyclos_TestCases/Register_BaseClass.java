@@ -2,6 +2,8 @@ package Cyclos_TestCases;
 
 import java.time.Duration;
 
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -17,6 +19,7 @@ public class Register_BaseClass {
 
 	
 public static WebDriver driver;
+public static Logger log;
 	
 Register_ReadConfig crc=new Register_ReadConfig();
 	
@@ -24,6 +27,8 @@ Register_ReadConfig crc=new Register_ReadConfig();
 	public String name=crc.getname();
 	public String loginname=crc.getlgnm();
 	public String email=crc.getemail();
+	public String password=crc.getpassword();
+	public String confirmpassword=crc.getconfirmpassword();
 	
 	@BeforeClass
 	@Parameters("browser")
@@ -39,6 +44,9 @@ Register_ReadConfig crc=new Register_ReadConfig();
 		}
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		
+		log=Logger.getLogger(this.getClass());
+		PropertyConfigurator.configure(System.getProperty("user.dir") +"\\Log4j.properties");
+		
 		driver.get(URL);
 		driver.manage().window().maximize();
 	}
@@ -46,6 +54,7 @@ Register_ReadConfig crc=new Register_ReadConfig();
 	@AfterClass
 	public void closeapplication() {
 		
+		driver.close();
 		System.out.println("close");
 	}
 }
