@@ -2,3 +2,7 @@
 2024-01-12 20:30:29,135 [main] INFO Cyclos_TestCases.LoginTest - Username is entered
 2024-01-12 20:30:31,240 [main] INFO Cyclos_TestCases.LoginTest - Password is entered
 2024-01-12 20:30:33,356 [main] INFO Cyclos_TestCases.LoginTest - Login is successfull
+2024-01-12 20:35:55,225 [main] INFO Cyclos_TestCases.LoginTest - Login is clicked
+2024-01-12 20:35:57,326 [main] INFO Cyclos_TestCases.LoginTest - Username is entered
+2024-01-12 20:35:59,420 [main] INFO Cyclos_TestCases.LoginTest - Password is entered
+2024-01-12 20:36:01,523 [main] INFO Cyclos_TestCases.LoginTest - Login is successfull
