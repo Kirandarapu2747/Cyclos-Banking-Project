@@ -10,7 +10,7 @@ public class Cyclos_ReadConfig
 	public Cyclos_ReadConfig()
 	{
 	
-		File f=new File(System.getProperty("user.dir")+"\\Resources\\Testing.properties");
+		File f=new File(System.getProperty("user.dir")+"\\Resources\\Login.properties");
 	    try 
 	    {
 	    	FileInputStream fis=new FileInputStream(f);

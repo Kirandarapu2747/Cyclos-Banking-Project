@@ -2,6 +2,8 @@ package Cyclos_TestCases;
 
 import java.time.Duration;
 
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
@@ -12,6 +14,7 @@ import Cyclos_Utilities.Registration_ReadConfig;
 public class Cyclos_RegisterBaseClass 
 {
 	public WebDriver driver;
+	public static Logger log;
 	Registration_ReadConfig rrc=new Registration_ReadConfig ();
 	
 	public String URL=rrc.OpenApplication();
@@ -29,6 +32,9 @@ public class Cyclos_RegisterBaseClass
 		driver.get(URL);
 		driver.manage().window().maximize();
 		System.out.println("Application Opened");
+		
+		log=Logger.getLogger(this.getClass());
+		PropertyConfigurator.configure(System.getProperty("user.dir")+"\\Resources\\Log4j.properties");
 	}
 	@AfterClass()
 	public void CloseApplication()
