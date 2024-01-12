@@ -9,6 +9,18 @@ public class Cyclos_LoginPage {
 	
 	public WebDriver driver;
 	
+	public Cyclos_LoginPage() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public Cyclos_LoginPage(WebDriver driver2) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public void Cyclos_LoginPage1(WebDriver driver) {
+		// TODO Auto-generated constructor stub
+	}
+
 	public void Loginpage(WebDriver driver) {
 		
 		this.driver= driver;
