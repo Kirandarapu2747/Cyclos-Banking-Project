@@ -5,6 +5,9 @@ import java.io.FileInputStream;
 import java.util.Properties;
 
 public class Cyclos_ReadConfig {
+
+
+	
 	Properties pro;
 	public Cyclos_ReadConfig() {
 		//configuration of properties

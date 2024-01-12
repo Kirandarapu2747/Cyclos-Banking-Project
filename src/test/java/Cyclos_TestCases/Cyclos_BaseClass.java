@@ -4,6 +4,8 @@ package Cyclos_TestCases;
 
 import java.time.Duration;
 
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -18,6 +20,7 @@ import Cyclos_Utilities.Cyclos_ReadConfig;
 
 public class Cyclos_BaseClass {
 	 public static WebDriver driver;
+	 public static Logger log;
 	 Cyclos_ReadConfig rc=new Cyclos_ReadConfig();
 		
 		public String url=rc.getApplication();
@@ -38,9 +41,12 @@ public class Cyclos_BaseClass {
 	       }
 	       driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 	          
-	       driver.get(url);
 	       
+	       driver.get(url);
 	       driver.manage().window().maximize();
+	       log=Logger.getLogger(this.getClass());
+	       PropertyConfigurator.configure(System.getProperty("user.dir")+"\\Log4j.properties");
+	       
 	       
 	   }
 	   

@@ -6,6 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
 import Cyclos_PageObjects.Cyclos_LoginPage;
+import jdk.internal.org.jline.utils.Log;
 
 
 
@@ -18,13 +19,13 @@ public class Cyclos_LoginTest extends Cyclos_BaseClass{
 		 Cyclos_LoginPage clp=new Cyclos_LoginPage(driver);
 	       driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 	       clp.setClickLoginBtn();
-	       System.out.println("login button is clicked");
+	       log.info("click button is completed");
 	       clp.setUsername(username);
-	       System.out.println("username is entered");
+	       log.info("username is entered");
 	       clp.setPassword(password);
-	       System.out.println("password is entered");
+	       log.info("password is entered");
 	       clp.ClickSumit();
-	       System.out.println("submit button is completed");
+	       log.info("submit button is clicked");
 	       
 }
 }
