@@ -35,6 +35,9 @@ public class Cyclos_RegisterTestClass extends Cyclos_RegisterBaseClass
 		crp.Clickagreement();
 		System.out.println("Argreement Clicked");
 		Thread.sleep(2000);
+		crp.EnterFrame();
+		System.out.println("Entered into Frame");
+		Thread.sleep(2000);
 		crp.Robot();
 		System.out.println("Robot Clicked");
 		Thread.sleep(2000);

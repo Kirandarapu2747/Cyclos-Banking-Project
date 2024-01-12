@@ -28,10 +28,12 @@ public class Cyclos_RegistrationPage
 	WebElement pword;
 	@FindBy(xpath="(//input[@type='password'])[2]")
 	WebElement cpword;
-	@FindBy(xpath="//label[@class='custom-control-label']")//input[@type='checkbox']
-	WebElement agreement;//input[@class='custom-control-input ng-valid ng-dirty ng-touched']
-	@FindBy(xpath="//span[@id='recaptcha-anchor']/div[1]")
-	WebElement robot;//div[@class='recaptcha-checkbox-checkmark']
+	@FindBy(xpath="//label[@class='custom-control-label']")
+	WebElement agreement;
+	@FindBy(xpath="//iframe[@title='reCAPTCHA']")
+	WebElement frame;
+	@FindBy(xpath="//div[@class='recaptcha-checkbox-border']")
+	WebElement robot;
 	@FindBy(xpath="(//button[@type='button'])[2]")
 	WebElement submit;
 	
@@ -67,13 +69,15 @@ public class Cyclos_RegistrationPage
 	{
 		agreement.click();
 	}
+	public void EnterFrame()
+	{
+		driver.switchTo().frame(0);
+	}
 	public void Robot()
 	{
-		/*
-		 * JavascriptExecutor jse=(JavascriptExecutor)driver;
-		 * jse.executeScript("arguments[0].click();",robot);
-		 */
+		
 		robot.click();
+		driver.switchTo().defaultContent();
 	}
 	public void ClickSubmit()
 	{

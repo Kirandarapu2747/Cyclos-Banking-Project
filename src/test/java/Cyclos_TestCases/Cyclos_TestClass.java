@@ -12,13 +12,13 @@ public class Cyclos_TestClass extends Cyclos_BaseClass
 	Cyclos_LoginPage  clp=new Cyclos_LoginPage (driver);
 	Thread.sleep(2000);
 	clp.setUsername(User);
-	System.out.println("Username Entered");
+	log.info("Username Entered");
 	Thread.sleep(2000);
 	clp.setPassword(Pword);
-	System.out.println("Password Entered");
+    log.info("Password Entered");
 	Thread.sleep(2000);
 	clp.ClickLogin();
-	System.out.println("Login clicked");
+	log.info("Login clicked");
 	Thread.sleep(2000);
 	}
 
