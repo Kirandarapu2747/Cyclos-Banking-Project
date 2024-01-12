@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
@@ -20,6 +21,218 @@
           </reporter-output>
         </test-method> <!-- teanDown -->
       </class> <!-- Cyclos_TestCases.Cyclos_BaseClass -->
+
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-11T12:23:28 IST" name="Suite" finished-at="2024-01-11T12:23:44 IST" duration-ms="16387">
+    <groups>
+    </groups>
+    <test started-at="2024-01-11T12:23:28 IST" name="Test" finished-at="2024-01-11T12:23:44 IST" duration-ms="16387">
+      <class name="Cyclos_TestCases.Cyclos_test">
+        <test-method is-config="true" signature="OpenApplication()[pri:0, instance:Cyclos_TestCases.Cyclos_test@4c583ecf]" started-at="2024-01-11T12:23:28 IST" name="OpenApplication" finished-at="2024-01-11T12:23:35 IST" duration-ms="7116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method signature="LoginTest()[pri:0, instance:Cyclos_TestCases.Cyclos_test@4c583ecf]" started-at="2024-01-11T12:23:35 IST" name="LoginTest" finished-at="2024-01-11T12:23:44 IST" duration-ms="8850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:Cyclos_TestCases.Cyclos_test@4c583ecf]" started-at="2024-01-11T12:23:44 IST" name="CloseApplication" finished-at="2024-01-11T12:23:44 IST" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApplication -->
+      </class> <!-- Cyclos_TestCases.Cyclos_test -->
+
+
+
+
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-11T10:31:28 IST" name="Suite" finished-at="2024-01-11T10:31:43 IST" duration-ms="15040">
+    <groups>
+    </groups>
+    <test started-at="2024-01-11T10:31:28 IST" name="Test" finished-at="2024-01-11T10:31:43 IST" duration-ms="15040">
+      <class name="Cyclos_TestCases.Login_Test">
+        <test-method is-config="true" signature="Openapplication(java.lang.String)[pri:0, instance:Cyclos_TestCases.Login_Test@65fb9ffc]" started-at="2024-01-11T10:31:28 IST" name="Openapplication" finished-at="2024-01-11T10:31:34 IST" duration-ms="6060" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+
+ 
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-10T02:24:30 EST" name="Suite" finished-at="2024-01-10T02:24:46 EST" duration-ms="16176">
+    <groups>
+    </groups>
+    <test started-at="2024-01-10T02:24:30 EST" name="Test" finished-at="2024-01-10T02:24:46 EST" duration-ms="16176">
+      <class name="Cyclos_TestCases.Testcaselogin">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:Cyclos_TestCases.Testcaselogin@54c5a2ff]" started-at="2024-01-10T02:24:30 EST" name="openapplication" finished-at="2024-01-10T02:24:38 EST" duration-ms="7537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapplication -->
+        <test-method signature="logintest()[pri:0, instance:Cyclos_TestCases.Testcaselogin@54c5a2ff]" started-at="2024-01-10T02:24:38 EST" name="logintest" finished-at="2024-01-10T02:24:46 EST" duration-ms="8269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:Cyclos_TestCases.Testcaselogin@54c5a2ff]" started-at="2024-01-10T02:24:46 EST" name="closeapplication" finished-at="2024-01-10T02:24:46 EST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapplication -->
+      </class> <!-- Cyclos_TestCases.Testcaselogin -->
+
+ 
+<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-11T10:36:26 IST" name="Suite" finished-at="2024-01-11T10:36:41 IST" duration-ms="15041">
+    <groups>
+    </groups>
+    <test started-at="2024-01-11T10:36:26 IST" name="Test" finished-at="2024-01-11T10:36:41 IST" duration-ms="15041">
+      <class name="Cyclos_TestCases.Cyclos_TestClass">
+        <test-method is-config="true" signature="OpenApplication()[pri:0, instance:Cyclos_TestCases.Cyclos_TestClass@77888435]" started-at="2024-01-11T10:36:26 IST" name="OpenApplication" finished-at="2024-01-11T10:36:38 IST" duration-ms="12264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method signature="LoginTest()[pri:0, instance:Cyclos_TestCases.Cyclos_TestClass@77888435]" started-at="2024-01-11T10:36:38 IST" name="LoginTest" finished-at="2024-01-11T10:36:40 IST" duration-ms="2120" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy16.sendKeys(Unknown Source)
+at Cyclos_PageObjects.Cyclos_LoginPage.setUsername(Cyclos_LoginPage.java:25)
+at Cyclos_TestCases.Cyclos_TestClass.LoginTest(Cyclos_TestClass.java:14)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:Cyclos_TestCases.Cyclos_TestClass@77888435]" started-at="2024-01-11T10:36:40 IST" name="CloseApplication" finished-at="2024-01-11T10:36:41 IST" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApplication -->
+      </class> <!-- Cyclos_TestCases.Cyclos_TestClass -->
+
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+
+  <suite started-at="2024-01-10T14:13:12 IST" name="Suite" finished-at="2024-01-10T14:13:25 IST" duration-ms="12890">
+    <groups>
+    </groups>
+    <test started-at="2024-01-10T14:13:12 IST" name="Test" finished-at="2024-01-10T14:13:25 IST" duration-ms="12890">
+      <class name="Cyclos_TestCases.Cyclos_LoginTest">
+        <test-method is-config="true" signature="openapplication(java.lang.String,java.lang.String)[pri:0, instance:Cyclos_TestCases.Cyclos_LoginTest@4802796d]" started-at="2024-01-10T14:13:12 IST" name="openapplication" finished-at="2024-01-10T14:13:16 IST" duration-ms="4305" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://demo.cyclos.org/ui/login]]>
+
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+
+        </test-method> <!-- Openapplication -->
+        <test-method signature="LoginTest()[pri:0, instance:Cyclos_TestCases.Login_Test@65fb9ffc]" started-at="2024-01-11T10:31:34 IST" name="LoginTest" finished-at="2024-01-11T10:31:42 IST" duration-ms="8269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="Closeapplication()[pri:0, instance:Cyclos_TestCases.Login_Test@65fb9ffc]" started-at="2024-01-11T10:31:42 IST" name="Closeapplication" finished-at="2024-01-11T10:31:43 IST" duration-ms="605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closeapplication -->
+      </class> <!-- Cyclos_TestCases.Login_Test -->
+
+        </test-method> <!-- openapplication -->
+        <test-method signature="logintest()[pri:0, instance:Cyclos_TestCases.Cyclos_LoginTest@4802796d]" started-at="2024-01-10T14:13:16 IST" name="logintest" finished-at="2024-01-10T14:13:25 IST" duration-ms="8416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:Cyclos_TestCases.Cyclos_LoginTest@4802796d]" started-at="2024-01-10T14:13:25 IST" name="closeApplication" finished-at="2024-01-10T14:13:25 IST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- Cyclos_TestCases.Cyclos_LoginTest -->
+
+
+  <suite started-at="2024-01-10T14:12:15 IST" name="Suite" finished-at="2024-01-10T14:12:29 IST" duration-ms="13827">
+    <groups>
+    </groups>
+    <test started-at="2024-01-10T14:12:15 IST" name="Test" finished-at="2024-01-10T14:12:29 IST" duration-ms="13827">
+      <class name="Cyclos_TestCases.LoginTest">
+        <test-method is-config="true" signature="OpenApplication()[pri:0, instance:Cyclos_TestCases.LoginTest@11392934]" started-at="2024-01-10T14:12:15 IST" name="OpenApplication" finished-at="2024-01-10T14:12:19 IST" duration-ms="4659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method signature="LoginTest()[pri:0, instance:Cyclos_TestCases.LoginTest@11392934]" started-at="2024-01-10T14:12:19 IST" name="LoginTest" finished-at="2024-01-10T14:12:28 IST" duration-ms="9029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:Cyclos_TestCases.LoginTest@11392934]" started-at="2024-01-10T14:12:28 IST" name="CloseApplication" finished-at="2024-01-10T14:12:29 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApplication -->
+      </class> <!-- Cyclos_TestCases.LoginTest -->
+
+
+  <suite started-at="2024-01-10T14:08:40 IST" name="Suite" finished-at="2024-01-10T14:09:04 IST" duration-ms="24127">
+    <groups>
+    </groups>
+    <test started-at="2024-01-10T14:08:40 IST" name="Test" finished-at="2024-01-10T14:09:04 IST" duration-ms="24127">
+      <class name="Cyclos_TestCases.Cyclos_TestCase">
+        <test-method is-config="true" signature="OpenApplication()[pri:0, instance:Cyclos_TestCases.Cyclos_TestCase@76505305]" started-at="2024-01-10T14:08:40 IST" name="OpenApplication" finished-at="2024-01-10T14:08:59 IST" duration-ms="18871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method signature="LoginTest()[pri:0, instance:Cyclos_TestCases.Cyclos_TestCase@76505305]" started-at="2024-01-10T14:08:59 IST" name="LoginTest" finished-at="2024-01-10T14:09:04 IST" duration-ms="5212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+      </class> <!-- Cyclos_TestCases.Cyclos_TestCase -->
+
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
