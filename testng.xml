@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
+ vinodkumar
+ vinodkumar
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Cyclos_TestCases.Cyclos_test"/>
+    </classes>
+
+ Naveen
+
 
 	<parameter name="Browser" value="Edge"></parameter>
   <test thread-count="5" name="Test">
@@ -8,6 +17,7 @@
       <class name="Cyclos_TestCases.Login_Test"/>
     </classes>
 
+ master
   <test thread-count="5" name="Test">
     <classes>
       <class name="Cyclos_TestCases.Testcaselogin"/>
@@ -30,6 +40,12 @@
       <class name="Cyclos_TestCases.Cyclos_TestCase"/>
 
     </classes>
+ vinodkumar
+master
+ master
+ master
 
+
+ master
   </test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -1,12 +1,57 @@
 package Cyclos_TestCases;
 
+ vinodkumar
+ vinodkumar
+
+ Naveen
+
+ master
 
 
 
+ vinodkumar
+ master
+ master
+ master
+ master
+
+ master
 import java.time.Duration;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+ vinodkumar
+ vinodkumar
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+
+import Cyclos_Utilities.Cyclos_ReadConfig;
+
+public class Cyclos_BaseClass {
+	 public static WebDriver driver;
+	 
+		
+		Cyclos_ReadConfig rc=new Cyclos_ReadConfig();
+		public String URL=rc.getApplicationURL();
+		public String Username=rc.getUsername();
+		public String Password=rc.getPassword();
+		@BeforeClass
+		public void OpenApplication()
+		{
+			driver=new ChromeDriver();
+			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
+			driver.get(URL);
+			driver.manage().window().maximize();
+		}
+		@AfterClass
+		public void CloseApplication()
+		{
+			driver.close();
+		}
+
+ Naveen
+
+ master
 
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -198,6 +243,7 @@ public class Cyclos_BaseClass {
 		
 		driver.close();
 	}
+ master
 }
 
  master
