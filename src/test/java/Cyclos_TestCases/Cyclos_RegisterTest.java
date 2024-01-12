@@ -4,9 +4,7 @@ import org.testng.annotations.Test;
 
 import Cyclos_PageObjects.Cyclos_RegisterPage;
 
-
-
-public class Cyclos_RegisterTest {
+public class Cyclos_RegisterTest extends Cyclos_RegisterBaseClass{
 	@Test
 	public void RegisterTest() throws InterruptedException
 	{
