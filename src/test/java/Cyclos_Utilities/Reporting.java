@@ -1,6 +1,8 @@
 package Cyclos_Utilities;
 
-public class Reporting {
+import org.testng.ITestListener;
+
+public class Reporting implements ITestListener{
 	//Step1:gives the extent report information
 			//gives UI part of the report--Title, doc-name, color...
 			public ExtentSparkReporter reporter;
