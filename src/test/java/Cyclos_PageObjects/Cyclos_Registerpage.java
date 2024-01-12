@@ -19,13 +19,13 @@ public static WebDriver driver;
 		
 	}
 	
-	@FindBy(id="id_16")
+	@FindBy(xpath="(//input[@type='text'])[1]")
 	WebElement txtname;
 	
-	@FindBy(id="id_17")
+	@FindBy(xpath="(//input[@type='text'])[2]")
 	WebElement txtloginname;
 	
-	@FindBy(id="id_18")
+	@FindBy(xpath="(//input[@type='text'])[3]")
 	WebElement txtemail;
 	
 	@FindBy(xpath="(//button[@type='button'])[9]")

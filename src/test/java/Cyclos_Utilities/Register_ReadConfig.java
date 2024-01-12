@@ -11,7 +11,7 @@ public class Register_ReadConfig {
 	public Register_ReadConfig() {
 		
 		//configuration of properties file
-		File f=new File(System.getProperty("user.dir")+"\\src\\test\\java\\Resources\\Register.properties");
+		File f=new File(System.getProperty("user.dir")+"\\Resources\\Register.properties");
 		try {
 			
 			FileInputStream fis=new FileInputStream(f);
