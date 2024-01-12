@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
- Naveen
+
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-11T10:31:28 IST" name="Suite" finished-at="2024-01-11T10:31:43 IST" duration-ms="15040">
+    <groups>
+    </groups>
+    <test started-at="2024-01-11T10:31:28 IST" name="Test" finished-at="2024-01-11T10:31:43 IST" duration-ms="15040">
+      <class name="Cyclos_TestCases.Login_Test">
+        <test-method is-config="true" signature="Openapplication(java.lang.String)[pri:0, instance:Cyclos_TestCases.Login_Test@65fb9ffc]" started-at="2024-01-11T10:31:28 IST" name="Openapplication" finished-at="2024-01-11T10:31:34 IST" duration-ms="6060" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
@@ -22,7 +36,7 @@
         </test-method> <!-- closeapplication -->
       </class> <!-- Cyclos_TestCases.Testcaselogin -->
 
- Bhavana
+ 
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
@@ -90,8 +104,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
- varalasrijitha
-varalasrijitha
+
   <suite started-at="2024-01-10T14:13:12 IST" name="Suite" finished-at="2024-01-10T14:13:25 IST" duration-ms="12890">
     <groups>
     </groups>
@@ -107,11 +120,24 @@ varalasrijitha
             <param index="1">
               <value>
                 <![CDATA[https://demo.cyclos.org/ui/login]]>
+
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
+
+        </test-method> <!-- Openapplication -->
+        <test-method signature="LoginTest()[pri:0, instance:Cyclos_TestCases.Login_Test@65fb9ffc]" started-at="2024-01-11T10:31:34 IST" name="LoginTest" finished-at="2024-01-11T10:31:42 IST" duration-ms="8269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="Closeapplication()[pri:0, instance:Cyclos_TestCases.Login_Test@65fb9ffc]" started-at="2024-01-11T10:31:42 IST" name="Closeapplication" finished-at="2024-01-11T10:31:43 IST" duration-ms="605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closeapplication -->
+      </class> <!-- Cyclos_TestCases.Login_Test -->
+
         </test-method> <!-- openapplication -->
         <test-method signature="logintest()[pri:0, instance:Cyclos_TestCases.Cyclos_LoginTest@4802796d]" started-at="2024-01-10T14:13:16 IST" name="logintest" finished-at="2024-01-10T14:13:25 IST" duration-ms="8416" status="PASS">
           <reporter-output>
@@ -123,7 +149,7 @@ varalasrijitha
         </test-method> <!-- closeApplication -->
       </class> <!-- Cyclos_TestCases.Cyclos_LoginTest -->
 
-PrabhavathiMallepally
+
   <suite started-at="2024-01-10T14:12:15 IST" name="Suite" finished-at="2024-01-10T14:12:29 IST" duration-ms="13827">
     <groups>
     </groups>
@@ -142,7 +168,7 @@ PrabhavathiMallepally
           </reporter-output>
         </test-method> <!-- CloseApplication -->
       </class> <!-- Cyclos_TestCases.LoginTest -->
- master
+
 
   <suite started-at="2024-01-10T14:08:40 IST" name="Suite" finished-at="2024-01-10T14:09:04 IST" duration-ms="24127">
     <groups>
@@ -158,13 +184,7 @@ PrabhavathiMallepally
           </reporter-output>
         </test-method> <!-- LoginTest -->
       </class> <!-- Cyclos_TestCases.Cyclos_TestCase -->
- varalasrijitha
- master
-
-master
- master
- master
- master
+ 
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

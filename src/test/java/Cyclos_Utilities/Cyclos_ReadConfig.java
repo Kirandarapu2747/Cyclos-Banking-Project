@@ -4,9 +4,36 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.util.Properties;
 
- Naveen
 
- Bhavana
+public class Cyclos_ReadConfig {
+	
+	Properties pro;
+	public Cyclos_ReadConfig() {
+		//Configuring your reading file
+		File f=new File(System.getProperty("user.dir")+"\\Resources\\testing.properties");
+		try {
+			FileInputStream fis=new FileInputStream(f);
+			pro=new Properties();
+			pro.load(fis);
+		}
+        catch(Exception e) {
+			System.out.println(e.getMessage());
+		}	
+	}
+	    public String getapplicationurl() {
+		    String url=pro.getProperty("baseURL");
+		    return url;
+	    }
+        public String getusername() {
+		    String uname=pro.getProperty("username");
+		    return uname;
+	    }
+        public String getpassword() {
+	        String pwrd=pro.getProperty("password");
+	        return pwrd;
+        }
+	 
+
 public class Cyclos_ReadConfig 
 {
 	Properties pro;
@@ -28,7 +55,7 @@ public class Cyclos_ReadConfig
 	
 	public String OpenApplication() 
 
- master
+
 public class Cyclos_ReadConfig {
 	Properties pro;
 PrabhavathiMallepally
@@ -47,12 +74,12 @@ PrabhavathiMallepally
 		}
 	}
 	public String getApplicationURL()
- master
+ 
 	{
 		String url=pro.getProperty("baseURL");
 		return url;
 	}
- Bhavana
+
 	
 	public String Username() 
 	{
@@ -78,7 +105,7 @@ PrabhavathiMallepally
 	}
 
 	public Cyclos_ReadConfig() {
- varalasrijitha
+
 		//configuration of properties
 		File f=new File(System.getProperty("user.dir")+"\\resources\\testing.properties");
 		try {
@@ -119,7 +146,7 @@ PrabhavathiMallepally
 	 System.out.println(e.getMessage());
  }
 
- Naveen
+
 
 	Properties pro;
 	public Cyclos_ReadConfig() {
@@ -159,7 +186,7 @@ public String getpassword() {
 	
 	
 
-master
+
 
 }
 
@@ -178,9 +205,9 @@ public String Username() {
 public String Password() {
 	String pwd=pro.getProperty("password");
 	return pwd;
-master
+
 
 }
- master
+ 
 }
- master
+
