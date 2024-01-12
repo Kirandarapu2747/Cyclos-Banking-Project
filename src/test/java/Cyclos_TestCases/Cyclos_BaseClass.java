@@ -1,27 +1,47 @@
 package Cyclos_TestCases;
 
- vinodkumar
- vinodkumar
 
- Naveen
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
 
- master
+import Cyclos_PageObjects.Cyclos_LoginPage;
+
+public class Cyclos_BaseClass {
+	WebDriver d;
+	Cyclos_LoginPage clp;
+	@BeforeClass
+	void setUP() throws Exception
+	{
+		d=new ChromeDriver();
+		d.get("https://demo.cyclos.org/ui/login");
+		d.manage().window().maximize();
+		Thread.sleep(3000);
+	}
+	@Test
+	void testLogin()
+	{
+		clp=new Cyclos_LoginPage(d);
+		clp.setUsername("demo");
+		clp.setPassword("1234");
+		clp.clickLogin();
+	}
+	@AfterClass
+	void teanDown()
+	{
+		d.close();
+	}
 
 
 
- vinodkumar
- master
- master
- master
- master
 
- master
 import java.time.Duration;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
- vinodkumar
- vinodkumar
+ 
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 
@@ -49,9 +69,7 @@ public class Cyclos_BaseClass {
 			driver.close();
 		}
 
- Naveen
 
- master
 
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -71,8 +89,7 @@ public class Cyclos_BaseClass
 	
 	public String URL=rc.OpenApplication();
 
- varalasrijitha
- varalasrijitha
+ 
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
@@ -108,6 +125,7 @@ public class Cyclos_BaseClass {
 	@AfterClass
 	public void Closeapplication() {
 		driver.quit();
+
 
 
 
@@ -243,7 +261,7 @@ public class Cyclos_BaseClass {
 		
 		driver.close();
 	}
- master
+
 }
 
- master
+ 
