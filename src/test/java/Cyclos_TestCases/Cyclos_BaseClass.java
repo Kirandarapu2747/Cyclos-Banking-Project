@@ -25,7 +25,7 @@ public class Cyclos_BaseClass {
 		driver.get(URL);
 		driver.manage().window().maximize();
 		Log=Logger.getLogger(this.getClass());
-		PropertyConfigurator.configure(System.getProperty("user.dir")+"Log4j.properties");
+		PropertyConfigurator.configure(System.getProperty("user.dir")+"\\Log4j.properties");
 	}
 	@AfterClass
 	public void CloseApplication()
