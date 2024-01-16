@@ -9,12 +9,12 @@ public class Cyclos_TestCase extends Cyclos_BaseClass{
 	public void LoginTest() throws InterruptedException {
 	Cyclos_LoginPage lp=new Cyclos_LoginPage(driver);
 	Thread.sleep(2000);
-	lp.setUsername(User);
+	lp.Username(Username);
 	System.out.println("Username Entered");
 	Thread.sleep(2000);
-	lp.setPassword(Pword);
+	lp.Password(Password);
 	System.out.println("Password Entered");
-	lp.ClickLoginBtn();
+	lp.Submit();
 	System.out.println("Login clicked");
 
 }

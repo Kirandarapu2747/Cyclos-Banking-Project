@@ -6,3 +6,7 @@
 2024-01-12 20:35:57,326 - Cyclos_TestCases.LoginTest -INFO - Username is entered
 2024-01-12 20:35:59,420 - Cyclos_TestCases.LoginTest -INFO - Password is entered
 2024-01-12 20:36:01,523 - Cyclos_TestCases.LoginTest -INFO - Login is successfull
+2024-01-16 19:16:37,676 - Cyclos_TestCases.LoginTest -INFO - Login is clicked
+2024-01-16 19:16:39,789 - Cyclos_TestCases.LoginTest -INFO - Username is entered
+2024-01-16 19:16:41,906 - Cyclos_TestCases.LoginTest -INFO - Password is entered
+2024-01-16 19:16:43,997 - Cyclos_TestCases.LoginTest -INFO - Login is successfull
