@@ -2,7 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
+<<<<<<< HEAD
   <suite started-at="2024-01-12T20:35:42 IST" name="Suite" finished-at="2024-01-12T20:36:01 IST" duration-ms="19213">
+=======
+PrabhavathiMallepally
+  <suite started-at="2024-01-10T14:12:15 IST" name="Suite" finished-at="2024-01-10T14:12:29 IST" duration-ms="13827">
+>>>>>>> refs/remotes/origin/PrabhavathiMallepally
     <groups>
     </groups>
     <test started-at="2024-01-12T20:35:42 IST" name="Test" finished-at="2024-01-12T20:36:01 IST" duration-ms="19213">
@@ -20,6 +25,22 @@
           </reporter-output>
         </test-method> <!-- CloseApplication -->
       </class> <!-- Cyclos_TestCases.LoginTest -->
+
+  <suite started-at="2024-01-10T14:08:40 IST" name="Suite" finished-at="2024-01-10T14:09:04 IST" duration-ms="24127">
+    <groups>
+    </groups>
+    <test started-at="2024-01-10T14:08:40 IST" name="Test" finished-at="2024-01-10T14:09:04 IST" duration-ms="24127">
+      <class name="Cyclos_TestCases.Cyclos_TestCase">
+        <test-method is-config="true" signature="OpenApplication()[pri:0, instance:Cyclos_TestCases.Cyclos_TestCase@76505305]" started-at="2024-01-10T14:08:40 IST" name="OpenApplication" finished-at="2024-01-10T14:08:59 IST" duration-ms="18871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method signature="LoginTest()[pri:0, instance:Cyclos_TestCases.Cyclos_TestCase@76505305]" started-at="2024-01-10T14:08:59 IST" name="LoginTest" finished-at="2024-01-10T14:09:04 IST" duration-ms="5212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+      </class> <!-- Cyclos_TestCases.Cyclos_TestCase -->
+master
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
