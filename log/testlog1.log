@@ -1,3 +1,26 @@
 2024-01-17 10:36:44,040 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Username Entered
 2024-01-17 10:36:46,147 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Password Entered
 2024-01-17 10:36:46,208 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Login clicked
+2024-01-17 10:52:52,127 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Username Entered
+2024-01-17 10:52:54,243 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Password Entered
+2024-01-17 10:52:54,304 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Login clicked
+2024-01-17 11:03:07,959 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Username Entered
+2024-01-17 11:03:10,039 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Password Entered
+2024-01-17 11:03:10,092 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Login clicked
+2024-01-17 11:49:41,665 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Username Entered
+2024-01-17 11:49:43,745 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Password Entered
+2024-01-17 11:49:43,824 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Login clicked
+2024-01-17 11:52:32,170 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Username Entered
+2024-01-17 11:52:34,260 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Password Entered
+2024-01-17 11:52:34,319 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Login clicked
+2024-01-17 12:00:08,164 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Username Entered
+2024-01-17 12:00:10,236 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Password Entered
+2024-01-17 12:00:10,293 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Login clicked
+2024-01-17 12:09:29,147 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Username Entered
+2024-01-17 12:09:31,235 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Password Entered
+2024-01-17 12:09:31,298 [main] INFO Cyclos_TestCases.Cyclos_TestCase - Login clicked
+2024-01-17 13:33:47,826 [main] INFO Cyclos_TestCases.Registration_Test - Register clicked
+2024-01-17 13:33:49,931 [main] INFO Cyclos_TestCases.Registration_Test - Name entered
+2024-01-17 13:33:52,042 [main] INFO Cyclos_TestCases.Registration_Test - Login name entered
+2024-01-17 13:33:54,176 [main] INFO Cyclos_TestCases.Registration_Test - Email entered
+2024-01-17 13:33:56,230 [main] INFO Cyclos_TestCases.Registration_Test - next button clicked

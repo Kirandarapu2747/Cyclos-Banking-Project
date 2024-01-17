@@ -9,37 +9,37 @@ public class Registration_Test extends Registration_BaseClass{
 		Registration rs=new Registration(driver);
 		Thread.sleep(2000);
 		rs.NewUserRegister();
-		System.out.println("Register clicked");
+		log.info("Register clicked");
 		Thread.sleep(2000);
 		rs.setName(Name);
-		System.out.println("Name entered");
+		log.info("Name entered");
 		Thread.sleep(2000);
 		rs.setLoinName(LoginName);
-		System.out.println("Login name entered");
+		log.info("Login name entered");
 		Thread.sleep(2000);
 		rs.setEMail(EMail);
-		System.out.println("Email entered");
+		log.info("Email entered");
 		Thread.sleep(2000);
 		rs.ClickNext();
-		System.out.println("next button clicked");
+		log.info("next button clicked");
 		Thread.sleep(2000);
 		rs.Password(Password);
-		System.out.println("Password entered");
+		log.info("Password entered");
 		Thread.sleep(2000);
 		rs.ConformPassword(ConformPassword);
-		System.out.println("Conform password entered");
+		log.info("Conform password entered");
 		Thread.sleep(2000);
 		rs.Checkbox();
-		System.out.println("Check box clicked");
+		log.info("Check box clicked");
 		Thread.sleep(2000);
 		rs.EnterFrame();
-		System.out.println("Entered into the frame");
+		log.info("Entered into the frame");
 		Thread.sleep(2000);
 		rs.Robot();
-		System.out.println("Robot clicked");
+		log.info("Robot clicked");
 		Thread.sleep(2000);
 		rs.ClickSubmit();
-		System.out.println("submit button clicked");
+		log.info("submit button clicked");
 		
 		
 		
