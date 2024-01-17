@@ -22,7 +22,7 @@ public class Reporting implements ITestListener{
 		    {
 		       
 		        //give the report target location
-		        reporter=new ExtentSparkReporter(System.getProperty("user.dir")+"\\Reports\\Report1.html");
+		        reporter=new ExtentSparkReporter(System.getProperty("user.dir")+"\\Reports\\RegisterReport.html");
 		   
 		        //Title of the report
 		        reporter.config().setDocumentTitle("Automation Testing Report");

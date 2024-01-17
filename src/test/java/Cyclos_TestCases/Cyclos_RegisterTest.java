@@ -3,6 +3,7 @@ package Cyclos_TestCases;
 import org.testng.annotations.Test;
 
 import Cyclos_PageObjects.Cyclos_RegisterPage;
+import jdk.internal.org.jline.utils.Log;
 
 public class Cyclos_RegisterTest extends Cyclos_RegisterBaseClass{
 	@Test
@@ -11,36 +12,36 @@ public class Cyclos_RegisterTest extends Cyclos_RegisterBaseClass{
 		Cyclos_RegisterPage Register=new Cyclos_RegisterPage(driver);
 		Thread.sleep(4000);
 		Register.Register();
-		System.out.println("Registration is clicked");
+		Log.info("Registration is clicked");
 		Thread.sleep(8000);
 		Register.Name(Name);
-		System.out.println("Name is entered");
+		Log.info("Name is entered");
 		Thread.sleep(4000);
 		Register.LoginName(LoginName);
-		System.out.println("LoginName is entered");
+		Log.info("LoginName is entered");
 		Thread.sleep(4000);
 		Register.Email(Email);
-		System.out.println("Email is entered");
+		Log.info("Email is entered");
 		Thread.sleep(4000);
 		Register.Next();
-		System.out.println("Next is clicked");
+		Log.info("Next is clicked");
 		Thread.sleep(4000);
 		Register.Password(Password);
-		System.out.println("Password is entered");
+		Log.info("Password is entered");
 		Thread.sleep(4000);
 		Register.ConfirmPwd(ConfirmPassword);
-		System.out.println("ConfirmPassword is entered");
+		Log.info("Confirm Password is entered");
 		Thread.sleep(4000);
 		Register.CheckBox();
-		System.out.println("Checkbox is clicked");
+		Log.info("Checkbox is clicked");
 		Register.Frame();
-		System.out.println("Entered into the frame");
+		Log.info("Entered into the frame");
 		Thread.sleep(4000);
 		Register.Captcha();
-		System.out.println("Captcha is clicked");
+		Log.info("Captcha is clicked");
 		Thread.sleep(4000);
 		Register.Submit();
-		System.out.println("Submit is clicked");
+		Log.info("Submit is clicked");
 	}
 
 }

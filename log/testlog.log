@@ -18,3 +18,34 @@
 2024-01-17 09:18:54,611 - Cyclos_TestCases.LoginTest -INFO - Username is entered
 2024-01-17 09:18:56,730 - Cyclos_TestCases.LoginTest -INFO - Password is entered
 2024-01-17 09:18:58,837 - Cyclos_TestCases.LoginTest -INFO - Login is successfull
+2024-01-17 10:45:18,778 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Registration is clicked
+2024-01-17 10:45:26,865 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Name is entered
+2024-01-17 10:45:30,953 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - LoginName is entered
+2024-01-17 10:45:35,064 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Email is entered
+2024-01-17 10:45:39,132 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Next is clicked
+2024-01-17 10:45:43,224 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Password is entered
+2024-01-17 10:45:47,311 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Confirm Password is entered
+2024-01-17 10:45:51,371 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Checkbox is clicked
+2024-01-17 10:45:51,384 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Entered into the frame
+2024-01-17 10:45:55,887 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Captcha is clicked
+2024-01-17 10:47:49,340 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Registration is clicked
+2024-01-17 10:47:57,425 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Name is entered
+2024-01-17 10:48:01,507 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - LoginName is entered
+2024-01-17 10:48:05,600 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Email is entered
+2024-01-17 10:48:09,648 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Next is clicked
+2024-01-17 10:48:13,730 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Password is entered
+2024-01-17 10:48:17,809 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Confirm Password is entered
+2024-01-17 10:48:21,851 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Checkbox is clicked
+2024-01-17 10:48:21,865 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Entered into the frame
+2024-01-17 10:48:26,012 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Captcha is clicked
+2024-01-17 10:50:53,352 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Registration is clicked
+2024-01-17 10:51:01,457 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Name is entered
+2024-01-17 10:51:05,550 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - LoginName is entered
+2024-01-17 10:51:09,640 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Email is entered
+2024-01-17 10:51:13,693 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Next is clicked
+2024-01-17 10:51:17,807 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Password is entered
+2024-01-17 10:51:21,896 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Confirm Password is entered
+2024-01-17 10:51:25,944 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Checkbox is clicked
+2024-01-17 10:51:25,958 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Entered into the frame
+2024-01-17 10:51:30,112 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Captcha is clicked
+2024-01-17 10:51:34,172 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Submit is clicked
