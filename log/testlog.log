@@ -49,3 +49,58 @@
 2024-01-17 10:51:25,958 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Entered into the frame
 2024-01-17 10:51:30,112 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Captcha is clicked
 2024-01-17 10:51:34,172 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Submit is clicked
+2024-01-17 14:50:54,670 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Registration is clicked
+2024-01-17 14:51:02,745 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Name is entered
+2024-01-17 14:51:06,842 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - LoginName is entered
+2024-01-17 14:51:10,938 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Email is entered
+2024-01-17 14:51:14,998 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Next is clicked
+2024-01-17 14:51:19,069 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Password is entered
+2024-01-17 14:51:23,153 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Confirm Password is entered
+2024-01-17 14:51:27,207 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Checkbox is clicked
+2024-01-17 14:51:27,219 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Entered into the frame
+2024-01-17 14:51:31,324 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Captcha is clicked
+2024-01-17 14:51:35,388 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Submit is clicked
+2024-01-17 15:11:12,647 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Registration is clicked
+2024-01-17 15:11:34,820 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Name is entered
+2024-01-17 15:11:38,912 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - LoginName is entered
+2024-01-17 15:11:43,011 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Email is entered
+2024-01-17 15:11:47,054 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Next is clicked
+2024-01-17 15:11:51,133 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Password is entered
+2024-01-17 15:11:55,201 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Confirm Password is entered
+2024-01-17 15:11:59,238 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Checkbox is clicked
+2024-01-17 15:11:59,252 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Entered into the frame
+2024-01-17 15:12:03,393 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Captcha is clicked
+2024-01-17 15:12:07,454 - Cyclos_TestCases.Cyclos_RegisterTest -INFO - Submit is clicked
+2024-01-17 16:27:47,528 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Username is entered
+2024-01-17 16:27:47,596 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Password is entered
+2024-01-17 16:27:47,637 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Login is successfull
+2024-01-17 16:28:24,243 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Username is entered
+2024-01-17 16:28:24,310 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Password is entered
+2024-01-17 16:28:24,352 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Login is successfull
+2024-01-17 16:53:32,027 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Username is entered
+2024-01-17 16:53:32,095 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Password is entered
+2024-01-17 16:53:32,135 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Login is successfull
+2024-01-17 17:39:11,669 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Username is entered
+2024-01-17 17:39:13,803 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Password is entered
+2024-01-17 17:39:17,103 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Login is successfull
+2024-01-17 17:42:21,707 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Username is entered
+2024-01-17 17:42:23,844 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Password is entered
+2024-01-17 17:42:25,944 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Login is successfull
+2024-01-17 17:43:06,128 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Username is entered
+2024-01-17 17:43:08,267 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Password is entered
+2024-01-17 17:43:10,342 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Login is successfull
+2024-01-17 17:55:40,743 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Username is entered
+2024-01-17 17:55:42,882 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Password is entered
+2024-01-17 17:55:46,241 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Login is successfull
+2024-01-17 17:55:46,400 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - screenshot is taken
+2024-01-17 17:55:46,402 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Screenshot is taken
+2024-01-17 17:58:52,405 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Username is entered
+2024-01-17 17:58:54,545 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Password is entered
+2024-01-17 17:58:56,623 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Login is successfull
+2024-01-17 17:58:57,940 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - screenshot is taken
+2024-01-17 17:58:57,941 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Screenshot is taken
+2024-01-17 18:07:51,985 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Username is entered
+2024-01-17 18:07:54,125 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Password is entered
+2024-01-17 18:07:57,338 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Login is successfull
+2024-01-17 18:07:57,506 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - screenshot is taken for orangehrm
+2024-01-17 18:07:57,507 - Cyclos_TestCases.OrangeHRM_LoginTest -INFO - Screenshot is taken

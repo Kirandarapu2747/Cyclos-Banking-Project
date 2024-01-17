@@ -3,22 +3,27 @@ package Cyclos_TestCases;
 import java.io.File;
 import java.io.IOException;
 import java.time.Duration;
-
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.io.FileHandler;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
-import Cyclos_Utilities.Cyclos_ReadConfig;
 
-public class Cyclos_BaseClass {
+import Cyclos_Utilities.OrangeHRM_ReadConfig;
+
+
+
+public class OrangeHRM_BaseClass {
 	public static WebDriver driver;
 	public static Logger Log;
-	Cyclos_ReadConfig rc=new Cyclos_ReadConfig();
+	OrangeHRM_ReadConfig rc=new OrangeHRM_ReadConfig();
 	public String URL=rc.getApplicationURL();
 	public String Username=rc.getUsername();
 	public String Password=rc.getPassword();
@@ -38,7 +43,7 @@ public class Cyclos_BaseClass {
 		{
 			driver=new FirefoxDriver();
 		}
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.get(URL);
 		driver.manage().window().maximize();
 		Log=Logger.getLogger(this.getClass());
@@ -49,10 +54,15 @@ public class Cyclos_BaseClass {
 	{
 		driver.close();
 	}
+    public void captureScreen(WebDriver driver,String name) throws IOException 
+    {
+		TakesScreenshot ts=(TakesScreenshot)driver;
+		File src=ts.getScreenshotAs(OutputType.FILE);
+		File target=new File("./Screenshots/"+name+".png");
+		FileHandler.copy(src, target);
+		Log.info("screenshot is taken for orangehrm");
+	}
 	
-
 	
-
-
 
 }

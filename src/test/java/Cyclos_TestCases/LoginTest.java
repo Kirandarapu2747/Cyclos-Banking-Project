@@ -1,5 +1,8 @@
 package Cyclos_TestCases;
 
+import java.io.IOException;
+
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import Cyclos_PageObjects.Cyclos_LoginPage;
@@ -21,8 +24,10 @@ public class LoginTest extends Cyclos_BaseClass {
 		Thread.sleep(2000);
 		login.Submit();
 		Log.info("Login is successfull");
+		
 	}
 
+	
 	
 	
 
