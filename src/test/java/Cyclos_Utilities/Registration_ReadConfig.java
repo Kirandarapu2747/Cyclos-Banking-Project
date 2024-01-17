@@ -35,4 +35,12 @@ public class Registration_ReadConfig {
 		String email=pro.getProperty("EMail");
 		return email;
 	}
+	public String Password() {
+		String password=pro.getProperty("Password");
+		return password;
+	}
+	public String ConformPassword() {
+		String conformpassword=pro.getProperty("ConformPassword");
+		return conformpassword;
+	}
 }

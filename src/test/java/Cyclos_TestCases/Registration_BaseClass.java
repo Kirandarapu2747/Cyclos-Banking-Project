@@ -17,6 +17,8 @@ public class Registration_BaseClass {
 	public String Name=rc.Name();
 	public String LoginName=rc.LoginName();
 	public String EMail=rc.EMail();
+	public String Password=rc.Password();
+	public String ConformPassword=rc.ConformPassword();
 	
 	@BeforeClass()
 	public void OpenApplication() {
@@ -27,9 +29,9 @@ public class Registration_BaseClass {
 		driver.manage().window().maximize();
 		}
 
-		@AfterClass()
-		public void CloseApplication(){
-			driver.close();
+		//@AfterClass()
+		//public void CloseApplication(){
+			//driver.close();
 
 }
-}
+

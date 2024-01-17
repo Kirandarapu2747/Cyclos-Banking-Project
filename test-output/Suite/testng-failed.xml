@@ -7,7 +7,6 @@
         <methods>
           <include name="RegistrationTest"/>
           <include name="OpenApplication"/>
-          <include name="CloseApplication"/>
         </methods>
       </class> <!-- Cyclos_TestCases.Registration_Test -->
     </classes>
