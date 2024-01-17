@@ -10,3 +10,11 @@
 2024-01-16 19:16:39,789 - Cyclos_TestCases.LoginTest -INFO - Username is entered
 2024-01-16 19:16:41,906 - Cyclos_TestCases.LoginTest -INFO - Password is entered
 2024-01-16 19:16:43,997 - Cyclos_TestCases.LoginTest -INFO - Login is successfull
+2024-01-16 20:04:49,633 - Cyclos_TestCases.LoginTest -INFO - Login is clicked
+2024-01-16 20:04:51,704 - Cyclos_TestCases.LoginTest -INFO - Username is entered
+2024-01-16 20:04:53,764 - Cyclos_TestCases.LoginTest -INFO - Password is entered
+2024-01-16 20:04:55,816 - Cyclos_TestCases.LoginTest -INFO - Login is successfull
+2024-01-17 09:18:52,504 - Cyclos_TestCases.LoginTest -INFO - Login is clicked
+2024-01-17 09:18:54,611 - Cyclos_TestCases.LoginTest -INFO - Username is entered
+2024-01-17 09:18:56,730 - Cyclos_TestCases.LoginTest -INFO - Password is entered
+2024-01-17 09:18:58,837 - Cyclos_TestCases.LoginTest -INFO - Login is successfull
