@@ -1,14 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
+ vinodkumar
 	<listeners>
 		<listener class-name="Cyclos_Utilities.Reporting"></listener>
 	</listeners>
+
+ vinodkumar
+ vinodkumar
+ master
   <test thread-count="5" name="Test">
 	  <parameter name="browser" value="edge"></parameter>
     <classes>
       <!-- <class name="Cyclos_TestCases.Cyclos_test"/>-->
       <class name="Cyclos_TestCases.Testcase_Register"/>
     </classes>
+
+ Naveen
+
+
+	<parameter name="Browser" value="Edge"></parameter>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Cyclos_TestCases.Login_Test"/>
+    </classes>
+
+ master
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Cyclos_TestCases.Testcaselogin"/>
+    </classes>
+
+
+		<parameter name="browser" value="chrome"></parameter>
+<parameter name="url" value="https://demo.cyclos.org/ui/login"></parameter>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Cyclos_TestCases.Cyclos_LoginTest"/>
+
+  <test thread-count="5" name="Test">
+
+	  <classes>
+		  <class name="Cyclos_TestCases.LoginTest"></class>
+	  </classes>
+
+    <classes>
+      <class name="Cyclos_TestCases.Cyclos_TestCase"/>
+
+    </classes>
+ vinodkumar
+master
+ master
+ master
+
+
+ master
   </test> <!-- Test -->
 </suite> <!-- Suite -->
