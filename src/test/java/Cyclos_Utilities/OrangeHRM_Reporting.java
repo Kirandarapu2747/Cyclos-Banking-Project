@@ -23,7 +23,7 @@ public class OrangeHRM_Reporting implements ITestListener{
 		public void onStart(ITestContext context) 
 		{
 			//give the report target location
-			reporter=new ExtentSparkReporter(System.getProperty("user.dir")+"\\Reports\\OrangeHRMReport.html");
+			reporter=new ExtentSparkReporter(System.getProperty("user.dir")+"\\Reports\\OrangeHRMReport1.html");
 
 			//Title of the report
 			reporter.config().setDocumentTitle("Automation Testing Report");

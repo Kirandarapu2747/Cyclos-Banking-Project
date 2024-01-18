@@ -9,7 +9,7 @@ import Cyclos_PageObjects.OrangeHRM_LoginPage;
 
 public class OrangeHRM_LoginTest extends OrangeHRM_BaseClass {
 	@Test
-	public void LoginTest() throws InterruptedException, IOException
+	public void LoginTest1() throws InterruptedException, IOException
 	{
 		OrangeHRM_LoginPage login=new OrangeHRM_LoginPage(driver);
 		Thread.sleep(2000);
@@ -21,6 +21,7 @@ public class OrangeHRM_LoginTest extends OrangeHRM_BaseClass {
 		Thread.sleep(2000);
 		login.Login();
 		Log.info("Login is successfull");
+		Thread.sleep(4000);
         String exp_result="OrangeHRM123";
 		String Act_Result=driver.getTitle();
 		if(Act_Result.equals(exp_result)) 
@@ -30,7 +31,7 @@ public class OrangeHRM_LoginTest extends OrangeHRM_BaseClass {
 		}
 		else 
 		{
-		    captureScreen(driver,"OrangeHRMLoginScreenshot");
+		    captureScreen(driver,"LoginTest1");
 			Log.info("Screenshot is taken");
 			Assert.assertTrue(false);
 		}
