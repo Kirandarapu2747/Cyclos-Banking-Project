@@ -1,5 +1,6 @@
 package Cyclos_TestCases;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import Cyclos_PageObjects.Cyclos_LoginPage;
@@ -17,6 +18,13 @@ public class Cyclos_TestCase extends Cyclos_BaseClass{
 	log.info("Password Entered");
 	lp.ClickLoginBtn();
 	log.info("Login clicked");
+	
+	
 
 }
 }
+
+	
+		
+	
+

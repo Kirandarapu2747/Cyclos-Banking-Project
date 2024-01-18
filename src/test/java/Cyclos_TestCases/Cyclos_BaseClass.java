@@ -1,9 +1,13 @@
 package Cyclos_TestCases;
 
+import java.io.File;
 import java.time.Duration;
+import java.util.logging.FileHandler;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
@@ -27,8 +31,7 @@ public class Cyclos_BaseClass {
 		
 		driver.get(URL);
 		driver.manage().window().maximize();
-		log=Logger.getLogger(this.getClass());
-		PropertyConfigurator.configure(System.getProperty("user.dir")+"\\Resources\\log4j.properties");
+		
 		}
 
 		@AfterClass()
@@ -36,4 +39,6 @@ public class Cyclos_BaseClass {
 			driver.close();
 
 }
-}
+	
+		}
+
