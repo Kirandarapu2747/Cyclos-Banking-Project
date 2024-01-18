@@ -1,5 +1,6 @@
 package Cyclos_Utilities;
 
+import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -61,6 +62,22 @@ public class Reporting implements ITestListener{
 	public void onTestFailure(ITestResult tr) {
 		test=extent.createTest(tr.getName());
 		test.log(Status.FAIL, MarkupHelper.createLabel(tr.getName(),ExtentColor.RED));
+		String screenshotpath=System.getProperty("user.dir") +"\\ScreenShots"+tr.getName()+".png";
+		File f=new File(screenshotpath);
+		
+		
+		
+		if(f.exists()) {
+			
+			try {
+				
+				test.fail("Screenshot is taken " +test.addScreenCaptureFromPath(screenshotpath));
+			}catch(Exception e){
+				
+				e.printStackTrace(); //show the classname and line number
+			}
+			
+		}
 		
 	}
 	
