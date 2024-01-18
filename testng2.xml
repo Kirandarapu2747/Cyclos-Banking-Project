@@ -3,7 +3,7 @@
 <suite name="Suite">
 	<parameter name="browser" value="chrome"></parameter>
 <parameter name="url" value="https://demo.cyclos.org/ui/login"></parameter>
-  <listeners>
+<listeners>
 	  <listener class-name="Cyclos_Utilities.Reporting"></listener>
   </listeners>
   <test thread-count="5" name="Test">

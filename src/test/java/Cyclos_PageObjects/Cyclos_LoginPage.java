@@ -27,24 +27,24 @@ public class Cyclos_LoginPage {
 	   @FindBy(xpath="//button[@class='btn d-flex justify-content-center align-items-center w-100 h-100 btn-primary btn-action-primary'] ")
 	   WebElement btnSubmit;
 	   
-	   public void setClickLoginBtn() throws InterruptedException {
-		   Thread.sleep(2000);
+	   public void setClickLoginBtn()  {
+		 
 		   btnLogin.click();
 	   }
 	   
-	   public void setUsername(String username) throws InterruptedException {
-		   Thread.sleep(2000);
+	   public void setUsername(String username)  {
+		
 	       
 	       txtusername.sendKeys(username);
 	   }
 	   
-	   public void setPassword(String password) throws InterruptedException {
-		   Thread.sleep(2000);
+	   public void setPassword(String password)  {
+		 
 	       txtpassword.sendKeys(password);
 	   }
 	   
-	   public void ClickSumit() throws InterruptedException {
-		   Thread.sleep(2000);
+	   public void ClickSumit()  {
+
 	       btnSubmit.click();
 	   }
 	   

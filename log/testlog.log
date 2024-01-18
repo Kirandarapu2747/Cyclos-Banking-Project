@@ -2,3 +2,128 @@
 2024-01-12 15:05:40,878 - Cyclos_TestCases.Cyclos_LoginTest -INFO - username is entered
 2024-01-12 15:05:42,981 - Cyclos_TestCases.Cyclos_LoginTest -INFO - password is entered
 2024-01-12 15:05:45,069 - Cyclos_TestCases.Cyclos_LoginTest -INFO - submit button is clicked
+2024-01-18 08:12:13,826 - Cyclos_TestCases.Cyclos_LoginTest -INFO - click button is completed
+2024-01-18 08:14:14,335 - Cyclos_TestCases.Cyclos_LoginTest -INFO - click button is completed
+2024-01-18 08:19:11,616 - Cyclos_TestCases.Cyclos_LoginTest -INFO - click button is completed
+2024-01-18 08:21:26,870 - Cyclos_TestCases.Cyclos_LoginTest -INFO - click button is completed
+2024-01-18 08:24:02,087 - Cyclos_TestCases.Cyclos_LoginTest -INFO - click button is completed
+2024-01-18 08:25:05,783 - Cyclos_TestCases.Cyclos_LoginTest -INFO - click button is completed
+2024-01-18 08:47:32,609 - Cyclos_TestCases.Cyclos_LoginTest -INFO - click button is completed
+2024-01-18 08:49:53,050 - Cyclos_TestCases.Cyclos_LoginTest -INFO - click button is completed
+2024-01-18 08:55:37,069 - Cyclos_TestCases.Cyclos_LoginTest -INFO - click button is completed
+2024-01-18 09:05:23,145 - Cyclos_TestCases.Cyclos_LoginTest -INFO - click button is completed
+2024-01-18 09:06:53,024 - Cyclos_TestCases.Cyclos_LoginTest -INFO - click button is completed
+2024-01-18 09:09:03,230 - Cyclos_TestCases.Cyclos_LoginTest -INFO - click button is completed
+2024-01-18 09:09:35,912 - Cyclos_TestCases.Cyclos_LoginTest -INFO - click button is completed
+2024-01-18 09:17:00,844 - Cyclos_TestCases.Cyclos_LoginTest -INFO - click button is completed
+2024-01-18 09:18:16,492 - Cyclos_TestCases.Cyclos_LoginTest -INFO - click button is completed
+2024-01-18 09:25:21,821 - Cyclos_TestCases.Cyclos_LoginTest -INFO - click button is completed
+2024-01-18 09:28:53,576 - Cyclos_TestCases.Cyclos_LoginTest -INFO - click button is completed
+2024-01-18 09:28:55,643 - Cyclos_TestCases.Cyclos_LoginTest -INFO - username is entered
+2024-01-18 09:29:03,741 - Cyclos_TestCases.Cyclos_LoginTest -INFO - password is entered
+2024-01-18 09:29:03,795 - Cyclos_TestCases.Cyclos_LoginTest -INFO - submit button is clicked
+2024-01-18 09:52:27,772 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 09:52:27,892 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 09:52:27,972 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 10:10:22,014 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 10:10:22,113 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 10:10:23,712 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 10:10:23,838 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - screenshot is taken for orangehrm
+2024-01-18 10:10:23,839 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - Screenshot is taken
+2024-01-18 10:10:53,702 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 10:10:53,791 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 10:10:53,859 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 10:10:54,955 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - screenshot is taken for orangehrm
+2024-01-18 10:10:54,956 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - Screenshot is taken
+2024-01-18 10:12:46,116 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 10:12:46,273 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 10:12:47,708 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 10:12:47,856 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - screenshot is taken for orangehrm
+2024-01-18 10:12:47,858 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - Screenshot is taken
+2024-01-18 10:14:33,777 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 10:14:33,946 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 10:28:25,376 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 10:28:25,540 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 10:28:26,772 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 10:28:26,911 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - screenshot is taken for orangehrm
+2024-01-18 10:28:26,912 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - Screenshot is taken
+2024-01-18 10:36:33,801 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 10:36:33,968 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 10:36:34,956 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 10:36:35,112 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - screenshot is taken for orangehrm
+2024-01-18 10:36:35,113 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - Screenshot is taken
+2024-01-18 10:39:48,942 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 10:39:49,120 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 10:39:49,240 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 10:39:50,276 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - screenshot is taken for orangehrm
+2024-01-18 10:39:50,277 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - Screenshot is taken
+2024-01-18 10:48:01,888 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 10:48:02,068 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 10:48:03,594 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 10:48:03,756 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - screenshot is taken for orangehrm
+2024-01-18 10:48:03,757 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - Screenshot is taken
+2024-01-18 11:52:16,445 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 11:52:18,544 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 11:52:20,617 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 11:52:21,560 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - screenshot is taken for orangehrm
+2024-01-18 11:52:21,561 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - Screenshot is taken
+2024-01-18 12:09:31,898 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 12:09:33,995 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 12:09:36,071 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 12:18:32,526 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 12:18:36,645 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 12:18:40,719 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 12:27:40,871 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 12:27:44,959 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 12:27:49,037 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 12:27:51,177 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - screenshot is taken for orangehrm
+2024-01-18 12:27:51,178 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - Screenshot is taken
+2024-01-18 12:29:36,365 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 12:29:40,471 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 12:29:44,537 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 12:29:46,676 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - screenshot is taken for orangehrm
+2024-01-18 12:29:46,677 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - Screenshot is taken
+2024-01-18 12:30:48,482 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 12:30:52,575 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 12:30:56,641 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 12:30:58,774 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - screenshot is taken for orangehrm
+2024-01-18 12:30:58,774 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - Screenshot is taken
+2024-01-18 12:31:57,039 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 12:32:01,139 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 12:32:05,222 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 12:33:01,350 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 12:33:05,454 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 12:33:09,527 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 12:33:55,871 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 12:33:59,993 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 12:34:04,070 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 12:34:48,061 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 12:34:52,163 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 12:34:56,246 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 12:34:58,378 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - screenshot is taken for orangehrm
+2024-01-18 12:34:58,379 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - Screenshot is taken
+2024-01-18 12:38:40,445 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 12:38:44,554 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 12:38:48,616 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 12:38:50,756 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - screenshot is taken for orangehrm
+2024-01-18 12:38:50,756 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - Screenshot is taken
+2024-01-18 12:42:33,475 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 12:42:37,570 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 12:42:41,646 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 12:42:43,777 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - screenshot is taken for orangehrm
+2024-01-18 12:42:43,778 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - Screenshot is taken
+2024-01-18 13:56:00,994 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username is entered
+2024-01-18 13:56:05,151 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password is entered
+2024-01-18 13:56:10,453 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 13:56:12,590 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - screenshot is taken for orangehrm
+2024-01-18 13:56:12,591 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - Screenshot is taken
+2024-01-18 14:00:37,823 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username entered
+2024-01-18 14:00:41,964 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password  entered
+2024-01-18 14:00:47,242 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 14:00:49,429 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - screenshot is taken for orangehrm
+2024-01-18 14:00:49,430 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - Screenshot is taken
+2024-01-18 14:15:56,876 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - username entered
+2024-01-18 14:16:01,027 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - password  entered
+2024-01-18 14:16:05,138 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - login is successfull
+2024-01-18 14:16:07,306 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - screenshot is taken for orangehrm
+2024-01-18 14:16:07,307 - Cyclos_TestCases.Cyclos_LoginTestOrange -INFO - Screenshot is taken

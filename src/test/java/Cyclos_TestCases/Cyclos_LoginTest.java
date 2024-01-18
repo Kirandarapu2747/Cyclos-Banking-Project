@@ -20,9 +20,12 @@ public class Cyclos_LoginTest extends Cyclos_BaseClass{
 	       driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 	       clp.setClickLoginBtn();
 	       log.info("click button is completed");
+	       Thread.sleep(2000);
 	       clp.setUsername(username);
-	       log.info("username is entered");
+	        log.info("username is entered");
+	       Thread.sleep(4000);
 	       clp.setPassword(password);
+	       Thread.sleep(4000);
 	       log.info("password is entered");
 	       clp.ClickSumit();
 	       log.info("submit button is clicked");
