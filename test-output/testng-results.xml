@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-11T10:31:28 IST" name="Suite" finished-at="2024-01-11T10:31:43 IST" duration-ms="15040">
+  <suite started-at="2024-01-17T17:04:26 IST" name="Suite" finished-at="2024-01-17T17:05:05 IST" duration-ms="39399">
     <groups>
     </groups>
-    <test started-at="2024-01-11T10:31:28 IST" name="Test" finished-at="2024-01-11T10:31:43 IST" duration-ms="15040">
-      <class name="Cyclos_TestCases.Login_Test">
-        <test-method is-config="true" signature="Openapplication(java.lang.String)[pri:0, instance:Cyclos_TestCases.Login_Test@65fb9ffc]" started-at="2024-01-11T10:31:28 IST" name="Openapplication" finished-at="2024-01-11T10:31:34 IST" duration-ms="6060" status="PASS">
+    <test started-at="2024-01-17T17:04:26 IST" name="Test" finished-at="2024-01-17T17:05:05 IST" duration-ms="39399">
+      <class name="Cyclos_TestCases.Cyclos_RegestrationTest">
+        <test-method is-config="true" signature="Openapplication(java.lang.String)[pri:0, instance:Cyclos_TestCases.Cyclos_RegestrationTest@74235045]" started-at="2024-01-17T17:04:27 IST" name="Openapplication" finished-at="2024-01-17T17:04:34 IST" duration-ms="6953" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Openapplication -->
-        <test-method signature="LoginTest()[pri:0, instance:Cyclos_TestCases.Login_Test@65fb9ffc]" started-at="2024-01-11T10:31:34 IST" name="LoginTest" finished-at="2024-01-11T10:31:42 IST" duration-ms="8269" status="PASS">
+        <test-method signature="RegistrationTest()[pri:0, instance:Cyclos_TestCases.Cyclos_RegestrationTest@74235045]" started-at="2024-01-17T17:04:34 IST" name="RegistrationTest" finished-at="2024-01-17T17:05:05 IST" duration-ms="31470" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LoginTest -->
-        <test-method is-config="true" signature="Closeapplication()[pri:0, instance:Cyclos_TestCases.Login_Test@65fb9ffc]" started-at="2024-01-11T10:31:42 IST" name="Closeapplication" finished-at="2024-01-11T10:31:43 IST" duration-ms="605" status="PASS">
+        </test-method> <!-- RegistrationTest -->
+        <test-method is-config="true" signature="Closeapplication()[pri:0, instance:Cyclos_TestCases.Cyclos_RegestrationTest@74235045]" started-at="2024-01-17T17:05:05 IST" name="Closeapplication" finished-at="2024-01-17T17:05:05 IST" duration-ms="354" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Closeapplication -->
-      </class> <!-- Cyclos_TestCases.Login_Test -->
+      </class> <!-- Cyclos_TestCases.Cyclos_RegestrationTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

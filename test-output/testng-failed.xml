@@ -2,15 +2,18 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <parameter name="Browser" value="Edge"/>
+  <listeners>
+    <listener class-name="Cyclos_Utilities.Reporting"/>
+  </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="Cyclos_TestCases.Login_Test">
+      <class name="Cyclos_TestCases.Cyclos_RegestrationTest">
         <methods>
-          <include name="Openapplication"/>
           <include name="Closeapplication"/>
-          <include name="LoginTest"/>
+          <include name="RegistrationTest"/>
+          <include name="Openapplication"/>
         </methods>
-      </class> <!-- Cyclos_TestCases.Login_Test -->
+      </class> <!-- Cyclos_TestCases.Cyclos_RegestrationTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
