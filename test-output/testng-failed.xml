@@ -5,6 +5,7 @@
     <listener class-name="Cyclos_Utilities.Extent_Reporting"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
+    <parameter name="browser" value="chrome"/>
     <classes>
       <class name="Cyclos_TestCases.Cyclos_RegisterTestClass">
         <methods>

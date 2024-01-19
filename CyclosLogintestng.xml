@@ -2,12 +2,13 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
 	<listeners>
-		<listener class-name="Cyclos_Utilities.Extent_Report"></listener>
+		<listener class-name="Cyclos_Utilities.Extent_Reporting"></listener>
 	</listeners>
   <test thread-count="5" name="Test">
 	  <parameter name="browser" value="chrome"></parameter>
     <classes>
       <class name="Cyclos_TestCases.Cyclos_TestClass"/>
+      <!--<class name="Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass"></class>-->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

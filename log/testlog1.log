@@ -77,3 +77,157 @@
 2024-01-17 12:15:48,655 [main] INFO Cyclos_TestCases.Cyclos_TestClass - UserName Entered
 2024-01-17 12:15:50,862 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Password Entered
 2024-01-17 12:15:52,978 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Login clicked
+2024-01-19 16:08:39,142 [main] INFO Cyclos_TestCases.Cyclos_TestClass - UserName Entered
+2024-01-19 16:08:41,672 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Password Entered
+2024-01-19 16:08:43,986 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Login clicked
+2024-01-19 16:08:46,008 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Test case passed
+2024-01-19 16:12:50,545 [main] INFO Cyclos_TestCases.Cyclos_TestClass - UserName Entered
+2024-01-19 16:12:52,719 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Password Entered
+2024-01-19 16:12:54,865 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Login clicked
+2024-01-19 16:12:56,896 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Test case passed
+2024-01-19 16:14:05,626 [main] INFO Cyclos_TestCases.Cyclos_TestClass - UserName Entered
+2024-01-19 16:14:07,829 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Password Entered
+2024-01-19 16:14:09,975 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Login clicked
+2024-01-19 16:14:12,006 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Test case is failed
+2024-01-19 16:14:12,223 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Screenshot is taken
+2024-01-19 16:19:56,136 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Register Clicked
+2024-01-19 16:21:24,511 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Register Clicked
+2024-01-19 16:24:10,390 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Register Clicked
+2024-01-19 16:24:14,924 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Name Entered
+2024-01-19 16:24:17,133 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Login Name Entered
+2024-01-19 16:24:19,501 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Email Entered
+2024-01-19 16:24:21,609 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Next Clicked
+2024-01-19 17:32:19,258 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Register Clicked
+2024-01-19 17:32:22,286 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Name Entered
+2024-01-19 17:32:24,448 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Login Name Entered
+2024-01-19 17:32:26,707 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Email Entered
+2024-01-19 17:32:28,807 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Next Clicked
+2024-01-19 17:34:13,816 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Register Clicked
+2024-01-19 17:34:16,972 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Name Entered
+2024-01-19 17:34:19,152 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Login Name Entered
+2024-01-19 17:34:21,387 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Email Entered
+2024-01-19 17:34:23,480 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Next Clicked
+2024-01-19 17:34:25,632 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Password Entered
+2024-01-19 17:34:27,814 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Password confirmed
+2024-01-19 17:34:29,924 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Agreement Clicked
+2024-01-19 17:34:32,033 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Entered into Frame
+2024-01-19 17:34:34,463 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Robot Clicked
+2024-01-19 17:36:02,204 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Register Clicked
+2024-01-19 17:36:34,912 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Register Clicked
+2024-01-19 17:36:37,302 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Name Entered
+2024-01-19 17:36:39,469 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Login Name Entered
+2024-01-19 17:36:41,701 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Email Entered
+2024-01-19 17:36:43,797 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Next Clicked
+2024-01-19 17:36:45,966 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Password Entered
+2024-01-19 17:36:48,137 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Password confirmed
+2024-01-19 17:36:50,245 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Agreement Clicked
+2024-01-19 17:36:52,282 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Entered into Frame
+2024-01-19 17:36:54,694 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Robot Clicked
+2024-01-19 22:33:44,815 [main] INFO Cyclos_TestCases.Cyclos_TestClass - UserName Entered
+2024-01-19 22:33:46,976 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Password Entered
+2024-01-19 22:33:49,089 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Login clicked
+2024-01-19 22:33:51,111 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Test case is failed
+2024-01-19 22:33:51,257 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Screenshot is taken
+2024-01-19 22:33:53,416 [main] INFO Cyclos_TestCases.Cyclos_TestClass - UserName Entered
+2024-01-19 22:33:55,523 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Password Entered
+2024-01-19 22:34:00,851 [main] INFO Cyclos_TestCases.Cyclos_TestClass - UserName Entered
+2024-01-19 22:34:02,995 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Password Entered
+2024-01-19 22:36:22,275 [main] INFO Cyclos_TestCases.Cyclos_TestClass - UserName Entered
+2024-01-19 22:36:24,449 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Password Entered
+2024-01-19 22:36:26,551 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Login clicked
+2024-01-19 22:36:28,566 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Test case is failed
+2024-01-19 22:36:28,734 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Screenshot is taken
+2024-01-19 22:36:30,894 [main] INFO Cyclos_TestCases.Cyclos_TestClass - UserName Entered
+2024-01-19 22:36:33,015 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Password Entered
+2024-01-19 22:36:38,233 [main] INFO Cyclos_TestCases.Cyclos_TestClass - UserName Entered
+2024-01-19 22:36:40,364 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Password Entered
+2024-01-19 22:39:20,094 [main] INFO Cyclos_TestCases.Cyclos_TestClass - UserName Entered
+2024-01-19 22:39:22,296 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Password Entered
+2024-01-19 22:39:24,419 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Login clicked
+2024-01-19 22:39:26,440 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Test case is failed
+2024-01-19 22:39:26,639 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Screenshot is taken
+2024-01-19 22:40:49,532 [main] INFO Cyclos_TestCases.Cyclos_TestClass - UserName Entered
+2024-01-19 22:40:51,709 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Password Entered
+2024-01-19 22:40:53,814 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Login clicked
+2024-01-19 22:40:55,829 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Test case is failed
+2024-01-19 22:40:55,980 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Screenshot is taken
+2024-01-19 22:46:58,731 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - UserName Entered
+2024-01-19 22:47:00,956 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - Password Entered
+2024-01-19 22:47:03,083 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - Login clicked
+2024-01-19 22:47:05,108 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - Test case is failed
+2024-01-19 22:47:05,317 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - Screenshot is taken
+2024-01-19 22:47:07,514 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - UserName Entered
+2024-01-19 22:47:09,644 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - Password Entered
+2024-01-19 22:47:14,914 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - UserName Entered
+2024-01-19 22:47:17,057 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - Password Entered
+2024-01-19 22:51:29,338 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - UserName Entered
+2024-01-19 22:51:31,547 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - Password Entered
+2024-01-19 22:51:33,672 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - Login clicked
+2024-01-19 22:51:35,690 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - Test case is failed
+2024-01-19 22:51:35,890 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - Screenshot is taken
+2024-01-19 22:51:38,072 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - UserName Entered
+2024-01-19 22:51:40,179 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - Password Entered
+2024-01-19 22:51:45,435 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - UserName Entered
+2024-01-19 22:51:47,558 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - Password Entered
+2024-01-19 22:53:56,248 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - UserName Entered
+2024-01-19 22:53:58,414 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - Password Entered
+2024-01-19 22:54:00,545 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - Login clicked
+2024-01-19 22:54:02,574 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - Test case is failed
+2024-01-19 22:54:02,798 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - Screenshot is taken
+2024-01-19 22:54:05,001 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - UserName Entered
+2024-01-19 22:54:07,106 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - Password Entered
+2024-01-19 22:54:12,362 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - UserName Entered
+2024-01-19 22:54:14,497 [main] INFO Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass - Password Entered
+2024-01-19 22:55:50,959 [main] INFO Cyclos_TestCases.Cyclos_TestClass - UserName Entered
+2024-01-19 22:55:53,099 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Password Entered
+2024-01-19 22:55:55,202 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Login clicked
+2024-01-19 22:55:57,220 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Test case is failed
+2024-01-19 22:55:57,354 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Screenshot is taken
+2024-01-19 22:57:27,514 [main] INFO Cyclos_TestCases.Cyclos_TestClass - UserName Entered
+2024-01-19 22:57:29,713 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Password Entered
+2024-01-19 22:57:31,859 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Login clicked
+2024-01-19 22:57:33,877 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Test case is failed
+2024-01-19 22:57:34,069 [main] INFO Cyclos_TestCases.Cyclos_TestClass - Screenshot is taken
+2024-01-19 23:01:33,197 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Register Clicked
+2024-01-19 23:01:35,499 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Name Entered
+2024-01-19 23:01:37,663 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Login Name Entered
+2024-01-19 23:01:39,890 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Email Entered
+2024-01-19 23:01:41,996 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Next Clicked
+2024-01-19 23:01:44,246 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Password Entered
+2024-01-19 23:01:46,406 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Password confirmed
+2024-01-19 23:01:48,506 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Agreement Clicked
+2024-01-19 23:01:50,536 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Entered into Frame
+2024-01-19 23:01:52,941 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Robot Clicked
+2024-01-19 23:02:46,489 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Register Clicked
+2024-01-19 23:02:48,667 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Name Entered
+2024-01-19 23:02:50,839 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Login Name Entered
+2024-01-19 23:02:53,088 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Email Entered
+2024-01-19 23:02:55,177 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Next Clicked
+2024-01-19 23:02:57,411 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Password Entered
+2024-01-19 23:02:59,562 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Password confirmed
+2024-01-19 23:03:01,707 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Agreement Clicked
+2024-01-19 23:03:03,778 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Entered into Frame
+2024-01-19 23:03:06,334 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Robot Clicked
+2024-01-19 23:03:58,322 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Register Clicked
+2024-01-19 23:04:02,057 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Name Entered
+2024-01-19 23:04:04,234 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Login Name Entered
+2024-01-19 23:04:06,469 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Email Entered
+2024-01-19 23:04:08,568 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Next Clicked
+2024-01-19 23:04:10,759 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Password Entered
+2024-01-19 23:04:12,922 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Password confirmed
+2024-01-19 23:04:15,023 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Agreement Clicked
+2024-01-19 23:04:17,074 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Entered into Frame
+2024-01-19 23:04:19,517 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Robot Clicked
+2024-01-19 23:05:23,636 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Register Clicked
+2024-01-19 23:05:25,909 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Name Entered
+2024-01-19 23:05:28,105 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Login Name Entered
+2024-01-19 23:05:30,385 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Email Entered
+2024-01-19 23:05:32,506 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Next Clicked
+2024-01-19 23:05:34,735 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Password Entered
+2024-01-19 23:05:36,924 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Password confirmed
+2024-01-19 23:05:39,013 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Agreement Clicked
+2024-01-19 23:05:41,051 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Entered into Frame
+2024-01-19 23:05:43,476 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Robot Clicked
+2024-01-19 23:06:03,582 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Submit Clicked
+2024-01-19 23:06:05,603 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Test case is failed
+2024-01-19 23:06:05,756 [main] INFO Cyclos_TestCases.Cyclos_RegisterTestClass - Screenshot is taken
