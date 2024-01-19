@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 import Cyclos_PageObjects.Cyclos_LoginPage;
 
 
-public class Testcaselogin extends Cyclos_BaseClass {
+public class Testcaselogin extends Login_BaseClass {
 
 	@Test
 	public void logintest() throws InterruptedException {

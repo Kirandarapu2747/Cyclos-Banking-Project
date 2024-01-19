@@ -11,7 +11,7 @@ import org.testng.annotations.*;
 import Cyclos_Utilities.Cyclos_ReadConfig;
 
 
-public class Cyclos_BaseClass {
+public class Login_BaseClass {
 
 	public static WebDriver driver;
 	

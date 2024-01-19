@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-17T08:34:19 EST" name="Suite" finished-at="2024-01-17T08:34:52 EST" duration-ms="32729">
+  <suite started-at="2024-01-18T21:50:08 EST" name="Suite" finished-at="2024-01-18T21:50:48 EST" duration-ms="39799">
     <groups>
     </groups>
-    <test started-at="2024-01-17T08:34:19 EST" name="Test" finished-at="2024-01-17T08:34:52 EST" duration-ms="32729">
+    <test started-at="2024-01-18T21:50:08 EST" name="Test" finished-at="2024-01-18T21:50:48 EST" duration-ms="39799">
       <class name="Cyclos_TestCases.Testcase_Register">
-        <test-method is-config="true" signature="openapplication(java.lang.String)[pri:0, instance:Cyclos_TestCases.Testcase_Register@25ce9dc4]" started-at="2024-01-17T08:34:19 EST" name="openapplication" finished-at="2024-01-17T08:34:25 EST" duration-ms="5621" status="PASS">
+        <test-method is-config="true" signature="openapplication(java.lang.String)[pri:0, instance:Cyclos_TestCases.Testcase_Register@25ce9dc4]" started-at="2024-01-18T21:50:08 EST" name="openapplication" finished-at="2024-01-18T21:50:17 EST" duration-ms="8666" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="registertest()[pri:0, instance:Cyclos_TestCases.Testcase_Register@25ce9dc4]" started-at="2024-01-17T08:34:25 EST" name="registertest" finished-at="2024-01-17T08:34:51 EST" duration-ms="26347" status="FAIL">
+        <test-method signature="registertest()[pri:0, instance:Cyclos_TestCases.Testcase_Register@25ce9dc4]" started-at="2024-01-18T21:50:17 EST" name="registertest" finished-at="2024-01-18T21:50:47 EST" duration-ms="30426" status="FAIL">
           <exception class="junit.framework.AssertionFailedError">
             <full-stacktrace>
               <![CDATA[junit.framework.AssertionFailedError
@@ -60,7 +60,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registertest -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:Cyclos_TestCases.Testcase_Register@25ce9dc4]" started-at="2024-01-17T08:34:51 EST" name="closeapplication" finished-at="2024-01-17T08:34:52 EST" duration-ms="181" status="PASS">
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:Cyclos_TestCases.Testcase_Register@25ce9dc4]" started-at="2024-01-18T21:50:47 EST" name="closeapplication" finished-at="2024-01-18T21:50:48 EST" duration-ms="154" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
