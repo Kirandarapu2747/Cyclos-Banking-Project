@@ -12,7 +12,7 @@ import Cyclos_Utilities.DataDriven_XL;
 public class Cyclos_LoginTestClass extends Cyclos_LoginBaseClass
 {
 	@Test()
-	public void LoginTest() throws InterruptedException, IOException 
+	public void LoginTest1() throws InterruptedException, IOException 
 	{
 	Cyclos_LoginPage  clp=new Cyclos_LoginPage (driver);
 	Thread.sleep(2000);
@@ -37,7 +37,7 @@ public class Cyclos_LoginTestClass extends Cyclos_LoginBaseClass
 	else
 	{
 		log.info("Test case is failed");
-		CaptureScreen(driver,"LoginTest");
+		CaptureScreen(driver,"LoginTest1");
 		log.info("Screenshot is taken");
 		Assert.assertTrue(false);
 	}

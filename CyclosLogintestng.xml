@@ -7,8 +7,9 @@
   <test thread-count="5" name="Test">
 	  <parameter name="browser" value="chrome"></parameter>
     <classes>
-      <class name="Cyclos_TestCases.Cyclos_TestClass"/>
-      <!--<class name="Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass"></class>-->
+        <!-- <class name="Cyclos_TestCases.Cyclos_LoginTestClass"/>-->
+    <!-- <class name="Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass"></class>-->
+ <class name="Cyclos_TestCases.Cyclos_Datadriven_Login_Status"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

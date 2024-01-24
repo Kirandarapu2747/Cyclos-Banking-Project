@@ -5,9 +5,9 @@
     <classes>
       <class name="Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass">
         <methods>
+          <include name="OpenApplication"/>
           <include name="Datadriven_LoginTest"/>
           <include name="CloseApplication"/>
-          <include name="OpenApplication"/>
         </methods>
       </class> <!-- Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -->
     </classes>

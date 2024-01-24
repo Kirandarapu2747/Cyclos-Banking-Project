@@ -231,3 +231,803 @@
 2024-01-19 23:06:03,582 - Cyclos_TestCases.Cyclos_RegisterTestClass -INFO - Submit Clicked
 2024-01-19 23:06:05,603 - Cyclos_TestCases.Cyclos_RegisterTestClass -INFO - Test case is failed
 2024-01-19 23:06:05,756 - Cyclos_TestCases.Cyclos_RegisterTestClass -INFO - Screenshot is taken
+2024-01-22 10:37:32,375 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 10:37:34,593 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 10:37:36,731 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 10:37:38,749 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 10:37:38,976 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 10:37:41,218 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 10:37:43,354 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 10:37:48,616 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 10:37:50,747 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 12:35:31,237 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 12:35:33,397 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 12:35:35,503 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 12:35:37,515 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 12:35:37,686 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 12:35:39,872 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 12:35:41,999 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 12:35:47,284 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 12:35:49,419 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 12:39:03,061 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 12:39:05,255 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 12:39:07,396 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 12:39:09,412 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 12:39:09,574 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 12:39:11,850 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 12:39:13,969 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 12:39:19,294 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 12:39:21,445 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 12:40:40,603 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 12:40:42,814 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 12:40:44,955 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 12:40:46,981 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 12:40:47,209 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 12:40:49,460 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 12:40:51,618 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 12:40:56,982 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 12:40:59,125 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:06:09,133 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:06:11,331 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:06:13,473 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:06:15,500 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:06:15,713 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:06:17,948 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:06:20,082 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:06:25,356 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:06:27,497 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:11:17,126 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:11:19,300 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:11:21,406 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:11:23,425 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:11:23,585 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:11:25,765 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:11:27,875 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:11:33,141 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:11:35,250 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:12:47,003 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:12:49,162 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:12:51,262 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:12:53,285 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:12:53,455 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:12:55,640 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:12:57,755 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:13:03,190 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:13:05,348 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:16:19,089 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:16:21,272 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:16:23,374 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:16:25,388 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:16:25,548 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:16:27,713 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:16:29,833 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:17:08,989 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:17:11,178 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:17:13,308 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:17:15,322 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:17:15,535 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:17:17,753 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:17:19,883 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:17:25,142 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:17:27,316 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:22:22,061 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:22:24,239 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:22:26,357 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:22:28,372 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:22:28,542 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:22:32,095 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:22:34,221 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:22:36,322 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:22:38,342 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:22:38,501 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:22:41,664 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:22:43,791 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:22:45,865 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:22:47,877 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:22:48,040 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:24:59,012 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:25:01,211 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:25:03,393 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:25:05,417 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:25:05,613 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:25:08,451 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:25:10,577 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:25:12,662 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:25:14,675 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:25:14,872 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:25:17,743 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:25:19,866 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:25:21,970 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:25:23,990 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:25:24,218 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:25:28,776 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:25:30,911 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:25:33,016 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:25:35,042 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:25:35,245 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:27:49,570 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:27:51,746 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:27:53,843 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:27:55,861 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:27:56,023 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:27:58,734 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:28:00,867 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:28:02,987 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:28:05,004 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:28:05,161 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:28:08,256 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:28:10,443 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:28:12,530 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:28:14,547 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:28:14,693 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:28:17,208 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:28:19,358 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:28:21,447 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:28:23,458 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:28:23,605 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:31:19,013 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:31:21,176 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Password Entered
+2024-01-22 13:31:23,309 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Login clicked
+2024-01-22 13:31:25,333 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:31:25,533 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:34:30,294 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:34:32,487 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Password Entered
+2024-01-22 13:34:34,591 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Login clicked
+2024-01-22 13:34:36,615 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:34:36,760 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:35:41,585 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:35:43,757 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:35:45,853 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:35:47,871 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:35:48,027 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:35:50,858 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:35:52,970 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:35:55,051 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:35:57,073 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:35:57,274 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:36:00,217 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:36:02,454 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:36:04,529 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:36:06,544 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:36:06,693 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:36:09,609 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:36:11,723 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:36:13,802 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:36:15,942 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:36:16,166 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:39:09,396 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:39:11,569 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:39:13,696 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:39:15,713 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:39:15,907 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:39:18,905 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:39:21,032 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:39:23,131 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:39:25,165 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:39:25,403 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:39:28,597 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:39:30,775 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:39:32,878 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:39:34,897 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:39:35,146 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:39:38,208 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:39:40,323 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:39:42,440 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:39:44,454 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:39:44,690 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:42:06,732 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:42:08,917 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:42:11,025 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:42:13,052 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:42:13,227 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:42:15,932 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:42:18,048 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:42:20,123 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:42:22,149 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:42:22,312 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:42:25,208 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:42:27,320 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:42:29,404 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:42:31,427 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:42:31,624 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:42:34,576 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:42:36,695 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:42:38,777 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:42:40,810 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:42:40,960 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:46:12,066 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:46:14,234 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:46:16,341 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:46:18,372 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case passed
+2024-01-22 13:46:20,528 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:46:22,637 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:46:27,936 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:46:30,065 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:46:35,320 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:46:37,482 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:47:44,229 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:47:46,411 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:47:48,518 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:47:50,548 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case passed
+2024-01-22 13:47:52,722 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:47:54,834 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:48:00,054 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:48:02,198 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:48:07,445 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:48:09,576 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:48:59,029 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:49:01,273 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:49:03,391 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:49:05,417 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:49:05,627 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:49:10,393 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:49:12,526 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:49:14,618 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:49:16,647 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:49:16,854 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:49:19,985 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:49:22,112 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:49:24,201 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:49:26,230 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:49:26,449 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:49:29,512 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:49:31,648 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:49:33,752 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:49:35,790 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:49:36,014 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:51:22,377 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:51:24,576 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:51:26,707 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:51:30,730 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:51:30,930 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:51:33,851 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:51:36,013 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:51:38,120 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:51:42,171 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:51:42,393 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:51:46,890 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:51:49,045 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:51:51,127 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:51:55,150 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:51:55,343 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:51:57,893 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:52:00,006 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:52:02,094 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:52:06,123 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:52:06,348 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:53:13,524 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:53:15,710 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:53:17,838 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:53:27,874 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:53:28,071 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:53:32,101 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:53:34,290 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:53:36,369 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:53:46,390 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:53:46,547 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:53:51,697 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:53:53,811 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:53:55,896 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:54:05,924 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-22 13:54:06,070 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-22 13:54:16,147 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-22 13:54:18,293 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-22 13:54:20,377 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-22 13:54:30,406 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case passed
+2024-01-23 23:19:03,863 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-23 23:19:06,164 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-23 23:19:08,336 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-23 23:19:18,380 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-23 23:19:20,606 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-23 23:19:23,755 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-23 23:19:25,919 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-23 23:19:28,036 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-23 23:19:38,068 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-23 23:19:38,445 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-23 23:19:41,047 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-23 23:19:43,441 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-23 23:19:45,546 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-23 23:19:55,569 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-23 23:19:56,023 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-23 23:19:58,656 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-23 23:20:00,774 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-23 23:20:02,922 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-23 23:20:12,938 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-23 23:20:13,329 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-23 23:20:15,921 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-23 23:20:18,059 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-23 23:20:20,166 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-23 23:20:30,186 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case passed
+2024-01-23 23:41:33,407 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-23 23:41:35,754 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-23 23:41:37,884 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-23 23:41:47,912 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-23 23:41:48,885 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-23 23:41:52,516 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-23 23:41:54,719 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-23 23:41:56,824 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-23 23:42:06,840 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-23 23:42:07,168 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-23 23:42:10,079 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-23 23:42:12,203 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-23 23:42:14,304 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-23 23:42:24,318 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-23 23:42:24,601 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-23 23:42:27,705 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-23 23:42:29,825 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-23 23:42:31,932 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-23 23:42:41,947 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-23 23:42:42,234 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-23 23:42:44,845 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-23 23:42:47,003 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-23 23:42:49,112 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-23 23:42:59,130 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case passed
+2024-01-23 23:47:54,739 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-23 23:47:56,916 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-23 23:47:59,039 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-23 23:48:09,066 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-23 23:48:18,392 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-23 23:48:20,520 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-23 23:48:25,903 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-23 23:48:28,031 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-23 23:48:33,302 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-23 23:48:35,407 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-23 23:48:40,772 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-23 23:48:42,897 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:05:01,968 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:05:04,200 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:05:06,354 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:05:16,391 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:05:17,302 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:05:20,995 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:05:23,136 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:05:25,302 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:05:35,325 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:05:35,692 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:05:38,557 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:05:40,699 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:05:42,800 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:05:52,820 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:05:53,157 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:05:55,952 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:05:58,072 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:06:00,186 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:06:10,196 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:06:10,563 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:06:13,310 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:06:15,468 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:06:17,566 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:06:27,579 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case passed
+2024-01-24 00:10:20,646 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:10:22,853 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:10:24,979 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:10:35,004 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:10:39,116 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:10:41,262 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:10:46,717 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:10:48,865 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:10:54,239 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:10:56,345 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:11:01,710 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:11:03,852 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:14:18,120 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:14:20,316 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:14:22,460 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:14:33,778 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:14:38,645 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:14:40,789 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:14:42,899 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:14:53,435 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:14:56,801 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:14:58,933 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:15:01,113 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:15:12,174 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:15:15,251 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:15:17,371 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:15:19,491 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:15:29,960 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:15:32,834 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:15:34,980 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:15:37,078 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:15:48,126 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:17:39,304 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:17:41,537 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:17:43,678 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:17:55,468 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:17:55,733 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:18:00,710 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:18:02,907 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:18:05,003 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:18:16,036 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:18:16,290 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:18:20,027 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:18:22,158 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:18:24,256 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:18:34,717 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:18:34,958 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:18:37,833 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:18:39,940 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:18:42,071 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:18:52,589 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:18:52,802 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:18:55,642 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:18:57,777 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:18:59,876 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:19:13,709 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:19:13,968 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:23:37,267 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:23:39,458 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:23:41,601 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:23:52,274 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:23:52,555 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:23:57,528 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:23:59,680 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:24:01,922 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:24:13,180 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:24:13,399 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:24:16,753 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:24:18,889 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:24:20,989 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:24:31,510 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:24:31,736 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:24:34,821 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:24:36,930 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:24:39,055 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:24:49,516 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:24:49,772 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:24:52,675 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:24:54,830 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:24:56,928 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:25:08,030 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:25:08,260 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:28:34,243 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:28:36,450 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:28:38,593 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:28:49,350 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:28:49,612 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:28:54,525 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:28:56,664 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:28:58,792 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:29:58,757 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:30:01,002 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:30:03,248 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:30:13,272 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:30:13,488 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:30:17,636 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:30:19,796 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:30:25,157 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:30:27,297 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:30:32,652 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:30:34,762 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:30:40,069 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:30:42,196 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:32:41,019 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:32:43,239 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:32:45,415 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:32:55,455 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:32:55,661 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:33:01,031 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:33:03,291 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:33:05,418 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:33:15,445 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:33:15,632 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:33:19,476 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:33:21,617 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:33:23,725 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:33:33,752 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:33:33,958 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:33:38,210 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:33:40,327 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:33:42,453 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:33:52,467 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:33:52,641 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:33:56,012 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:33:58,152 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:34:00,255 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:34:10,282 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case passed
+2024-01-24 00:53:46,976 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:53:49,392 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:53:51,522 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:54:01,735 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:54:02,040 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:54:09,892 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:54:12,219 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:54:14,343 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:54:24,358 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:54:24,536 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:54:29,543 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:54:31,676 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:54:33,783 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:54:43,801 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:54:43,981 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:54:47,487 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:54:49,620 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:54:51,792 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:55:01,822 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 00:55:02,048 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 00:55:06,115 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 00:55:08,280 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 00:55:10,400 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 00:55:20,421 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case passed
+2024-01-24 01:06:00,028 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:06:02,313 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:06:04,439 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:06:14,451 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:06:14,633 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:06:20,911 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:06:23,060 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:06:25,183 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:06:35,201 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:06:35,390 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:06:40,478 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:06:42,610 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:06:44,710 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:06:54,722 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:06:54,914 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:06:58,470 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:07:00,595 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:07:02,738 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:07:12,765 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:07:13,006 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:07:16,623 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:07:18,756 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:07:20,860 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:07:30,881 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case passed
+2024-01-24 01:10:14,278 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:10:16,479 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:10:18,616 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:10:28,635 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:10:28,846 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:10:36,774 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:10:39,179 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:10:41,380 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:10:51,398 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:10:51,619 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:10:56,004 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:10:58,154 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:11:00,240 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:11:10,262 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:11:10,470 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:11:14,892 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:11:17,012 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:11:19,123 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:11:29,145 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:11:29,338 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:11:32,898 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:11:35,031 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:11:37,190 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:11:47,210 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:11:47,420 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:13:46,138 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:13:48,356 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:13:50,525 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:14:00,557 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:14:00,826 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:14:08,967 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:14:11,128 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:14:13,240 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:14:23,254 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:14:23,460 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:14:28,441 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:14:30,578 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:14:32,677 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:14:42,702 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:14:42,872 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:14:46,526 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:14:48,658 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:14:50,768 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:15:00,787 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:15:00,983 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:15:04,878 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:15:07,017 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:15:09,106 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:15:19,131 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case passed
+2024-01-24 01:17:42,312 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:17:44,518 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:17:46,673 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:17:56,711 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:17:56,953 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:18:03,668 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:18:05,817 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:18:07,925 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:18:17,971 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:18:18,189 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:18:23,425 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:18:25,561 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:18:27,653 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:18:37,678 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:18:37,865 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:18:42,051 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:18:44,163 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:18:46,269 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:18:56,292 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:18:56,466 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:18:59,948 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:19:02,095 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:19:04,200 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:20:52,104 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:20:54,322 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:20:56,461 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:21:06,484 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:21:06,698 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:21:14,035 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:21:17,084 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:21:19,192 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:21:29,221 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:21:29,419 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:21:34,641 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:21:36,782 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:21:38,879 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:21:48,899 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:21:49,094 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:21:52,764 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:21:54,891 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:21:57,005 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:22:07,025 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:22:07,190 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:22:10,611 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:22:12,747 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:22:14,843 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:22:24,870 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case passed
+2024-01-24 01:31:27,622 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:31:29,830 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:31:31,957 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:31:42,007 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:31:42,243 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:31:49,231 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:31:51,416 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:31:53,525 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:32:03,545 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:32:03,729 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:32:08,129 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:32:10,275 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:32:12,369 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:32:22,390 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:32:22,568 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:32:26,206 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:32:28,300 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:32:30,399 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:32:40,420 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:32:40,603 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:32:43,965 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:32:46,092 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:32:48,184 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:32:58,202 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case passed
+2024-01-24 01:34:48,437 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:34:50,618 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:34:52,747 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:35:02,828 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:35:03,047 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:35:09,438 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:35:11,606 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:35:13,696 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:35:23,710 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:35:23,912 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:35:28,171 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:35:30,305 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:35:32,409 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:35:42,420 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:35:42,620 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:35:46,887 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:35:49,004 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:35:51,109 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:36:01,128 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:36:01,317 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:36:05,008 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:36:07,131 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:36:09,224 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:36:19,241 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case passed
+2024-01-24 01:40:53,731 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:40:55,942 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:40:58,065 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:41:08,088 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:41:08,294 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:41:15,672 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:41:17,809 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:41:19,914 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:41:29,945 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 01:41:30,116 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 01:41:35,066 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 01:41:37,204 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 01:41:39,295 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 01:41:49,321 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case passed
+2024-01-24 01:46:04,133 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-24 01:46:06,316 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-24 01:46:08,440 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-24 01:46:18,469 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-24 01:46:18,687 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-24 01:46:22,221 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-24 01:46:24,324 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-24 01:46:26,435 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-24 01:46:36,457 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case is failed
+2024-01-24 01:46:36,618 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Screenshot is taken
+2024-01-24 01:46:39,141 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - UserName Entered
+2024-01-24 01:46:41,267 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Password Entered
+2024-01-24 01:46:43,359 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Login clicked
+2024-01-24 01:46:53,384 - Cyclos_TestCases.Cyclos_Datadriven_LoginTestClass -INFO - Test case passed
+2024-01-24 02:20:51,019 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 02:20:53,263 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 02:20:55,389 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 02:21:05,407 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 02:21:05,674 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 02:24:12,151 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 02:24:14,359 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 02:24:16,494 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 02:24:26,528 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 02:24:26,761 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 02:24:32,992 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 02:24:35,103 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 02:24:37,203 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 02:24:47,225 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 02:24:47,401 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 02:24:52,247 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 02:24:54,389 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 02:24:56,475 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 02:25:06,496 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 02:25:06,668 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 02:26:04,482 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 02:26:06,693 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 02:26:08,814 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 02:26:18,836 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 02:26:19,054 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 02:26:24,500 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 02:26:26,658 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 02:26:28,783 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 02:26:38,805 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 02:26:38,993 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 02:26:43,295 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 02:26:45,423 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 02:26:47,523 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 02:26:57,572 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case passed
+2024-01-24 09:57:40,186 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 09:57:42,424 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 09:57:44,539 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 09:57:54,566 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 09:57:54,823 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 09:58:00,601 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 09:58:02,733 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 09:58:04,844 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 09:58:14,866 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 09:58:15,061 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 14:08:39,199 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 14:08:41,481 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 14:08:43,603 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 14:08:53,624 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 14:08:53,883 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 14:09:03,320 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 14:09:05,598 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 14:09:07,762 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 14:09:17,775 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 14:09:17,936 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 14:09:23,478 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 14:09:25,604 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 14:09:27,713 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 14:09:37,770 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case passed
+2024-01-24 14:15:20,863 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 14:15:23,079 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 14:15:25,194 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 14:15:35,212 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 14:15:35,434 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 14:15:43,143 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 14:15:45,270 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 14:15:47,364 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 14:15:57,384 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 14:15:57,577 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 14:16:03,030 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 14:16:05,155 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 14:16:07,233 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 14:16:17,251 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case passed
+2024-01-24 14:19:51,207 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 14:19:53,410 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 14:19:55,527 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 14:20:05,549 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 14:20:05,799 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 14:20:12,802 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 14:20:15,262 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 14:20:17,382 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 14:20:27,430 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case is failed
+2024-01-24 14:20:27,592 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Screenshot is taken
+2024-01-24 14:20:32,300 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - UserName Entered
+2024-01-24 14:20:34,438 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
+2024-01-24 14:20:36,530 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
+2024-01-24 14:20:46,550 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case passed

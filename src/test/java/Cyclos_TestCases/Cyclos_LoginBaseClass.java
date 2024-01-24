@@ -68,5 +68,5 @@ public class Cyclos_LoginBaseClass
 		File target=new File(System.getProperty("user.dir")+"\\Screenshots\\"+name+".png");
 		FileHandler.copy(src,target);
 	}
-
+	
 }

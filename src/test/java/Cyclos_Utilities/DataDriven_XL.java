@@ -2,7 +2,10 @@ package Cyclos_Utilities;
 
 import java.io.*;
 
+import org.apache.poi.ss.usermodel.CellStyle;
 import org.apache.poi.ss.usermodel.DataFormatter;
+import org.apache.poi.ss.usermodel.FillPatternType;
+import org.apache.poi.ss.usermodel.IndexedColors;
 import org.apache.poi.xssf.usermodel.*;
 import org.testng.ITestListener;
 
@@ -14,6 +17,7 @@ public class DataDriven_XL implements ITestListener
 	public static XSSFSheet sh;
 	public static XSSFRow row;
 	public static XSSFCell cell;
+	public static CellStyle style;
 	
 	public static int getRowCount(String XLfile,String XLsheet) throws IOException
 	{
@@ -74,6 +78,41 @@ public class DataDriven_XL implements ITestListener
 		wb.close();
 		fo.close();
 		fi.close();
+	}
+	
+	public static void fillGreenColor(String xlfile,String xlsheet, int rownum,int cellnum) throws IOException {
+		fi=new FileInputStream(xlfile);
+		wb=new XSSFWorkbook(fi);
+		sh=wb.getSheet(xlsheet);
+		row=sh.getRow(rownum);
+		cell=row.getCell(cellnum);
+		style=wb.createCellStyle();
+		style.setFillForegroundColor(IndexedColors.GREEN.getIndex());//fill the color green
+		style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+		cell.setCellStyle(style);
+		fo=new FileOutputStream(xlfile);
+		wb.write(fo);
+		wb.close();
+		fi.close();
+		fo.close();
+		
+	}
+	public static void fillRedColor(String xlfile,String xlsheet, int rownum,int cellnum) throws IOException {
+		fi=new FileInputStream(xlfile);
+		wb=new XSSFWorkbook(fi);
+		sh=wb.getSheet(xlsheet);
+		row=sh.getRow(rownum);
+		cell=row.getCell(cellnum);
+		style=wb.createCellStyle();
+		style.setFillForegroundColor(IndexedColors.RED.getIndex());//fill the color green
+		style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+		cell.setCellStyle(style);
+		fo=new FileOutputStream(xlfile);
+		wb.write(fo);
+		wb.close();
+		fi.close();
+		fo.close();
+		
 	}
 
 
