@@ -1,0 +1,15 @@
+2024-01-17 17:04:35,978 - Cyclos_TestCases.Cyclos_RegestrationTest -INFO - Registration is clicked
+2024-01-17 17:04:37,674 - Cyclos_TestCases.Cyclos_RegestrationTest -INFO - Name is Entered
+2024-01-17 17:04:39,799 - Cyclos_TestCases.Cyclos_RegestrationTest -INFO - LoginName is Entered
+2024-01-17 17:04:41,974 - Cyclos_TestCases.Cyclos_RegestrationTest -INFO - E-mail is Entered
+2024-01-17 17:04:44,180 - Cyclos_TestCases.Cyclos_RegestrationTest -INFO - Website is Entered
+2024-01-17 17:04:46,355 - Cyclos_TestCases.Cyclos_RegestrationTest -INFO - Gender radio button is clicked
+2024-01-17 17:04:48,638 - Cyclos_TestCases.Cyclos_RegestrationTest -INFO - Businesstype dropdown is Selected
+2024-01-17 17:04:50,754 - Cyclos_TestCases.Cyclos_RegestrationTest -INFO - Next button is clicked
+2024-01-17 17:04:52,915 - Cyclos_TestCases.Cyclos_RegestrationTest -INFO - password is Entered
+2024-01-17 17:04:55,038 - Cyclos_TestCases.Cyclos_RegestrationTest -INFO - confirmpassword is Entered
+2024-01-17 17:04:57,178 - Cyclos_TestCases.Cyclos_RegestrationTest -INFO - Checkbox is clicked
+2024-01-17 17:04:59,219 - Cyclos_TestCases.Cyclos_RegestrationTest -INFO - Entered in the Farme
+2024-01-17 17:05:01,477 - Cyclos_TestCases.Cyclos_RegestrationTest -INFO - Robot checkbox is clicked
+2024-01-17 17:05:03,492 - Cyclos_TestCases.Cyclos_RegestrationTest -INFO - Exited from the Farme
+2024-01-17 17:05:05,528 - Cyclos_TestCases.Cyclos_RegestrationTest -INFO - Submit button is clicked

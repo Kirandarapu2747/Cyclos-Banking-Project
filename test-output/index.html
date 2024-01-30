@@ -95,6 +95,9 @@ master
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Suite" class="navigator-link ">
+
+                    <span>C:\Users\hi\git\Cyclos-Banking-Project\testngreg.xml</span>
+
  vinodkumar
  vinodkumar
                     <span>C:\Users\vinodkumar\git\Cyclos-Banking-Project\testng.xml</span>
@@ -130,6 +133,7 @@ master
 
 
  master
+
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -217,8 +221,12 @@ master
 
 
                         <img src="passed.png" width="3%"/>
+
+                        <a href="#" panel-name="suite-Suite" title="Cyclos_TestCases.Cyclos_RegestrationTest" class="method navigator-link" hash-for-method="RegistrationTest">RegistrationTest</a> <!-- method navigator-link -->
+
                         <a href="#" panel-name="suite-Suite" title="Cyclos_TestCases.Login_Test" class="method navigator-link" hash-for-method="LoginTest">LoginTest</a> <!-- method navigator-link -->
  master
+
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Suite -->
@@ -281,6 +289,9 @@ master
           <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
+
+              <span class="class-name">Cyclos_TestCases.Cyclos_RegestrationTest</span>
+
               <span class="class-name">Cyclos_TestCases.Login_Test</span>
 
  master
@@ -315,10 +326,16 @@ master
 
 
  master
+
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
+
+                  <a name="RegistrationTest">
+                  </a> <!-- RegistrationTest -->
+                  <span class="method-name">RegistrationTest</span>
+
  vinodkumar
  vinodkumar
 
@@ -373,6 +390,7 @@ master
 
 
  master
+
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -380,6 +398,9 @@ master
         </div> <!-- panel Suite -->
         <div panel-name="test-xml-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
+
+            <span class="header-content">C:\Users\hi\git\Cyclos-Banking-Project\testngreg.xml</span>
+
  vinodkumar
  vinodkumar
             <span class="header-content">C:\Users\vinodkumar\git\Cyclos-Banking-Project\testng.xml</span>
@@ -409,6 +430,7 @@ master
 
 
  master
+
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -425,8 +447,14 @@ master
 
 
   &lt;parameter name=&quot;Browser&quot; value=&quot;Edge&quot;/&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;Cyclos_Utilities.Reporting&quot;/&gt;
+  &lt;/listeners&gt;
   &lt;test thread-count=&quot;5&quot; name=&quot;Test&quot;&gt;
     &lt;classes&gt;
+
+      &lt;class name=&quot;Cyclos_TestCases.Cyclos_RegestrationTest&quot;/&gt;
+
       &lt;class name=&quot;Cyclos_TestCases.Login_Test&quot;/&gt;
 
  master
@@ -461,6 +489,7 @@ master
  master
 
  master
+
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Test --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
@@ -502,6 +531,11 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(1);
 data.setCell(0, 0, 0)
+
+data.setCell(0, 1, 'RegistrationTest')
+data.setCell(0, 2, 'Cyclos_TestCases.Cyclos_RegestrationTest')
+data.setCell(0, 3, 31470);
+
  vinodkumar
  vinodkumar
 data.setCell(0, 1, 'LoginTest')
@@ -546,10 +580,14 @@ master
  master
 
  master
+
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
+
+              <span class="suite-total-time">Total running time: 31 seconds</span>
+
  vinodkumar
  vinodkumar
               <span class="suite-total-time">Total running time: 8 seconds</span>
@@ -582,6 +620,7 @@ master
 
 
  master
+
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -607,6 +646,9 @@ master
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
+
+              <div class="chronological-class-name">Cyclos_TestCases.Cyclos_RegestrationTest</div> <!-- chronological-class-name -->
+
  vinodkumar
  vinodkumar
               <div class="chronological-class-name">Cyclos_TestCases.Cyclos_test</div> <!-- chronological-class-name -->
@@ -615,17 +657,18 @@ master
 
 
               <div class="chronological-class-name">Cyclos_TestCases.Login_Test</div> <!-- chronological-class-name -->
+
               <div class="configuration-class before">
                 <span class="method-name">Openapplication(Edge)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <span class="method-name">LoginTest</span>
-                <span class="method-start">6097 ms</span>
+                <span class="method-name">RegistrationTest</span>
+                <span class="method-start">6966 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">Closeapplication</span>
-                <span class="method-start">14389 ms</span>
+                <span class="method-start">38456 ms</span>
               </div> <!-- configuration-class after -->
 
  master
