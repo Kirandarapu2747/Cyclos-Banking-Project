@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+ vinodkumar
+ vinodkumar
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Cyclos_TestCases.Cyclos_test">
+        <methods>
+          <include name="openApplication"/>
+          <include name="LoginTest"/>
+          <include name="CloseApplication"/>
+        </methods>
+      </class> <!-- Cyclos_TestCases.Cyclos_test -->
+
+ Bhavana
+
+
   <parameter name="Browser" value="Edge"/>
   <listeners>
     <listener class-name="Cyclos_Utilities.Reporting"/>
@@ -13,7 +28,52 @@
           <include name="RegistrationTest"/>
           <include name="Openapplication"/>
         </methods>
+
       </class> <!-- Cyclos_TestCases.Cyclos_RegestrationTest -->
+
+      </class> <!-- Cyclos_TestCases.Login_Test -->
+
+ master
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Cyclos_TestCases.Cyclos_TestClass">
+        <methods>
+          <include name="LoginTest"/>
+          <include name="CloseApplication"/>
+          <include name="OpenApplication"/>
+        </methods>
+      </class> <!-- Cyclos_TestCases.Cyclos_TestClass -->
+
+ 
+  <parameter name="browser" value="chrome"/>
+  <parameter name="url" value="https://demo.cyclos.org/ui/login"/>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Cyclos_TestCases.Cyclos_LoginTest">
+        <methods>
+          <include name="logintest"/>
+          <include name="closeApplication"/>
+          <include name="openapplication"/>
+        </methods>
+      </class> <!-- Cyclos_TestCases.Cyclos_LoginTest -->
+
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Cyclos_TestCases.LoginTest">
+        <methods>
+          <include name="LoginTest"/>
+          <include name="OpenApplication"/>
+          <include name="CloseApplication"/>
+        </methods>
+      </class> <!-- Cyclos_TestCases.LoginTest -->
+ vinodkumar
+ master
+ master
+ master
+
+
+ master
+
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
