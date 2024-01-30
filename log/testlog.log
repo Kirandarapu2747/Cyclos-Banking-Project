@@ -1031,3 +1031,633 @@
 2024-01-24 14:20:34,438 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Password Entered
 2024-01-24 14:20:36,530 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Login clicked
 2024-01-24 14:20:46,550 - Cyclos_TestCases.Cyclos_Datadriven_Login_Status -INFO - Test case passed
+2024-01-28 18:14:02,572 - Cyclos_TestCases.Cyclos_RegisterTestClass -INFO - Register Clicked
+2024-01-28 18:14:05,012 - Cyclos_TestCases.Cyclos_RegisterTestClass -INFO - Name Entered
+2024-01-28 18:14:07,255 - Cyclos_TestCases.Cyclos_RegisterTestClass -INFO - Login Name Entered
+2024-01-28 18:14:09,502 - Cyclos_TestCases.Cyclos_RegisterTestClass -INFO - Email Entered
+2024-01-28 18:14:11,621 - Cyclos_TestCases.Cyclos_RegisterTestClass -INFO - Next Clicked
+2024-01-28 18:14:13,794 - Cyclos_TestCases.Cyclos_RegisterTestClass -INFO - Password Entered
+2024-01-28 18:14:15,967 - Cyclos_TestCases.Cyclos_RegisterTestClass -INFO - Password confirmed
+2024-01-28 18:14:18,080 - Cyclos_TestCases.Cyclos_RegisterTestClass -INFO - Agreement Clicked
+2024-01-28 18:14:20,120 - Cyclos_TestCases.Cyclos_RegisterTestClass -INFO - Entered into Frame
+2024-01-28 18:14:22,518 - Cyclos_TestCases.Cyclos_RegisterTestClass -INFO - Robot Clicked
+2024-01-29 15:56:49,260 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - UserName Entered
+2024-01-29 15:56:52,353 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Password Entered
+2024-01-29 15:56:54,471 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Login clicked
+2024-01-29 15:56:57,469 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Test case is failed
+2024-01-29 15:56:57,890 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Screenshot is taken
+2024-01-29 16:01:00,097 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - UserName Entered
+2024-01-29 16:01:07,011 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Password Entered
+2024-01-29 16:01:09,145 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Login clicked
+2024-01-29 16:01:13,164 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Test case is failed
+2024-01-29 16:01:13,758 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Screenshot is taken
+2024-01-29 16:02:18,741 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - UserName Entered
+2024-01-29 16:02:20,909 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Password Entered
+2024-01-29 16:02:23,013 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Login clicked
+2024-01-29 16:02:33,036 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Test case passed
+2024-01-29 16:29:21,086 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - UserName Entered
+2024-01-29 16:29:23,342 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Password Entered
+2024-01-29 16:29:25,455 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Login clicked
+2024-01-29 16:29:35,530 - Cyclos_TestCases.Cyclos_LoginTestClass -INFO - Test case passed
+2024-01-29 16:32:39,490 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 16:32:41,660 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 16:32:43,895 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 16:32:53,921 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 16:32:54,205 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 16:34:31,702 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 16:34:33,886 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 16:34:35,989 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 16:34:46,013 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 16:34:46,140 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 16:35:28,293 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 16:35:30,492 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 16:35:32,619 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 16:35:42,638 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 16:35:42,773 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 16:50:03,158 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 16:50:05,328 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 16:50:07,455 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 16:50:17,479 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 16:50:17,630 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 16:50:23,828 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 16:52:06,893 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 16:52:09,087 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 16:52:11,206 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 16:52:21,223 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 16:52:21,347 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 16:52:27,500 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 16:53:34,256 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 16:53:36,409 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 16:53:38,532 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 16:53:48,544 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 16:53:48,670 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 16:53:54,896 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 17:00:55,595 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 17:00:57,789 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 17:00:59,907 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 17:01:09,928 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 17:01:10,048 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 17:01:16,226 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 17:02:20,286 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 17:02:22,522 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 17:02:24,646 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 17:02:34,665 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 17:02:34,799 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 17:02:40,976 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 17:04:19,899 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 17:04:22,104 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 17:04:24,229 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 17:04:34,250 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 17:04:34,393 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 17:04:40,633 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 17:06:15,738 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 17:06:17,949 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 17:06:20,075 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 17:06:30,102 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 17:06:30,250 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 17:06:36,447 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 17:08:22,322 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 17:08:24,646 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 17:08:26,820 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 17:08:36,837 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 17:08:36,984 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 17:08:43,182 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 17:09:40,121 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 17:09:42,317 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 17:09:44,417 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 17:09:54,437 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 17:09:54,589 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 17:10:01,263 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 17:12:18,005 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 17:12:20,525 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 17:12:22,658 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 17:12:32,676 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 17:12:33,110 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 17:12:39,294 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 17:19:56,565 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 17:19:58,750 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 17:20:00,922 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 17:20:10,949 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 17:20:11,072 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 17:20:17,334 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 17:27:31,543 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 17:27:33,751 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 17:27:35,866 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 17:27:45,879 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 17:27:45,996 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 17:27:52,196 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 17:33:04,561 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 17:33:06,750 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 17:33:08,864 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 17:33:18,883 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 17:33:19,012 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 17:33:25,353 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 17:41:22,632 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 17:41:24,824 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 17:41:26,938 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 17:41:36,958 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 17:41:37,078 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 17:41:43,314 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 17:42:52,028 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 17:42:54,241 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 17:42:56,348 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 17:43:06,365 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 17:43:06,501 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 17:43:12,678 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 17:43:22,777 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 17:44:11,940 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 17:44:14,129 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 17:44:16,255 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 17:44:26,277 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 17:44:26,405 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 17:44:32,651 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 17:44:42,746 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 17:49:14,750 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 17:49:16,938 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 17:49:19,052 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 17:49:29,068 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 17:49:29,180 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 17:49:35,344 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 17:49:45,450 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 17:54:32,666 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 17:54:34,845 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 17:54:36,974 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 17:54:46,996 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 17:54:47,114 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 17:54:53,281 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 17:55:03,387 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 17:56:40,504 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 17:56:42,711 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 17:56:44,829 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 17:56:54,854 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 17:56:54,987 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 17:57:01,247 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 17:57:11,341 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 17:58:11,962 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 17:58:14,234 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 17:58:16,365 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 17:58:26,384 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 17:58:26,718 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 17:58:32,934 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 17:58:43,022 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 18:01:43,598 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 18:01:45,814 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 18:01:47,929 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 18:01:57,955 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 18:01:58,124 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 18:02:04,465 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 18:02:14,569 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 18:04:18,338 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 18:04:20,531 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 18:04:22,656 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 18:04:32,682 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 18:04:32,812 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 18:04:39,103 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 18:04:49,232 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 18:06:33,480 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 18:06:35,688 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 18:06:37,815 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 18:06:47,843 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 18:06:47,962 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 18:06:54,125 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 18:07:04,291 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 18:09:44,730 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 18:09:46,924 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 18:09:49,041 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 18:09:59,052 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 18:09:59,176 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 18:10:05,379 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 18:10:11,644 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 18:10:17,819 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Amount is entered
+2024-01-29 18:15:55,106 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 18:15:57,296 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 18:15:59,400 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 18:16:09,422 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 18:16:09,575 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 18:16:15,802 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 18:16:22,000 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 18:16:28,128 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Amount is entered
+2024-01-29 18:16:30,243 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Scheduling is selected
+2024-01-29 18:26:04,946 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 18:26:07,133 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 18:26:09,256 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 18:26:19,280 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 18:26:19,431 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 18:26:25,898 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 18:26:32,064 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 18:26:38,200 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Amount is entered
+2024-01-29 18:26:40,316 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Scheduling is clicked
+2024-01-29 18:26:42,434 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay Now scheduling method is selected
+2024-01-29 18:29:33,560 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 18:29:35,786 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 18:29:37,921 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 18:29:47,934 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 18:29:48,062 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 18:29:54,277 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 18:30:00,425 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 18:30:06,564 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Amount is entered
+2024-01-29 18:30:08,698 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Scheduling is clicked
+2024-01-29 18:30:10,821 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay Now scheduling method is selected
+2024-01-29 18:30:54,725 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 18:30:56,879 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 18:30:58,994 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 18:31:09,007 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 18:31:09,130 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 18:31:15,493 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 18:31:21,698 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 18:31:27,828 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Amount is entered
+2024-01-29 18:31:29,944 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Scheduling is clicked
+2024-01-29 18:31:32,048 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay Now scheduling method is selected
+2024-01-29 18:32:45,625 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 18:32:47,969 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 18:32:50,072 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 18:33:00,091 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 18:33:00,241 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 18:33:06,474 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 18:33:12,592 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 18:33:18,735 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Amount is entered
+2024-01-29 18:33:20,845 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Scheduling is clicked
+2024-01-29 18:33:22,944 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay Now scheduling method is selected
+2024-01-29 18:33:29,628 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Description is entered
+2024-01-29 18:36:07,951 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 18:36:10,187 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 18:36:12,308 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 18:36:22,330 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 18:36:22,503 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 18:36:28,709 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 18:36:34,861 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 18:36:41,000 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Amount is entered
+2024-01-29 18:36:43,108 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Scheduling is clicked
+2024-01-29 18:36:45,209 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay Now scheduling method is selected
+2024-01-29 18:36:51,909 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Description is entered
+2024-01-29 18:36:54,032 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Next is Clicked
+2024-01-29 18:39:59,707 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 18:40:02,022 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 18:40:04,168 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 18:40:14,181 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 18:40:14,318 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 18:40:20,498 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 18:40:26,699 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 18:40:32,841 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Amount is entered
+2024-01-29 18:40:34,968 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Scheduling is clicked
+2024-01-29 18:40:37,087 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay Now scheduling method is selected
+2024-01-29 18:40:43,933 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Description is entered
+2024-01-29 18:40:46,066 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Next is Clicked
+2024-01-29 18:41:59,917 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 18:42:02,140 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 18:42:04,272 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 18:42:14,286 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 18:42:14,434 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 18:42:20,740 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 18:42:26,904 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 18:42:33,059 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Amount is entered
+2024-01-29 18:42:35,171 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Scheduling is clicked
+2024-01-29 18:42:37,289 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay Now scheduling method is selected
+2024-01-29 18:42:44,001 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Description is entered
+2024-01-29 18:42:46,121 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Next is Clicked
+2024-01-29 18:45:58,518 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 18:46:00,819 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 18:46:03,089 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 18:46:13,111 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 18:46:13,262 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 18:46:19,435 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 18:46:25,810 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 18:46:31,944 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Amount is entered
+2024-01-29 18:46:34,082 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Scheduling is clicked
+2024-01-29 18:46:36,227 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay Now scheduling method is selected
+2024-01-29 18:46:42,929 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Description is entered
+2024-01-29 18:46:45,050 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Next is Clicked
+2024-01-29 18:46:50,293 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - confirm is Clicked
+2024-01-29 18:50:59,129 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 18:51:01,412 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 18:51:03,527 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 18:51:13,540 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 18:51:13,653 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 18:51:19,888 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 18:51:26,023 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 18:51:32,148 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Amount is entered
+2024-01-29 18:51:34,384 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Scheduling is clicked
+2024-01-29 18:51:36,499 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay Now scheduling method is selected
+2024-01-29 18:51:43,206 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Description is entered
+2024-01-29 18:51:45,330 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Next is Clicked
+2024-01-29 18:51:50,433 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - confirm is Clicked
+2024-01-29 18:52:33,222 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-29 18:52:35,479 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-29 18:52:37,653 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-29 18:52:47,668 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-29 18:52:47,792 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-29 18:52:53,971 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-29 18:53:00,169 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-29 18:53:06,308 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Amount is entered
+2024-01-29 18:53:08,491 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Scheduling is clicked
+2024-01-29 18:53:10,595 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay Now scheduling method is selected
+2024-01-29 18:53:17,319 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Description is entered
+2024-01-29 18:53:19,511 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Next is Clicked
+2024-01-29 18:53:24,668 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - confirm is Clicked
+2024-01-30 10:14:22,340 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - UserName Entered
+2024-01-30 10:14:25,250 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Password Entered
+2024-01-30 10:14:27,373 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Login clicked
+2024-01-30 10:14:37,404 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Application Navigated to Dashboard page
+2024-01-30 10:14:37,536 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay User is Clicked
+2024-01-30 10:14:43,697 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - to_user pick from contact list is clicked
+2024-01-30 10:14:49,827 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - user is selected
+2024-01-30 10:14:55,979 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Amount is entered
+2024-01-30 10:14:58,089 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Scheduling is clicked
+2024-01-30 10:15:00,200 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Pay Now scheduling method is selected
+2024-01-30 10:15:07,083 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Description is entered
+2024-01-30 10:15:09,203 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - Next is Clicked
+2024-01-30 10:15:14,307 - Cyclos_TestCases.PayUser_TestCase_Happypath -INFO - confirm is Clicked
+2024-01-30 10:59:54,840 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 10:59:57,015 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 10:59:59,157 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 11:00:09,184 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 11:00:09,299 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 11:00:15,444 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 11:00:21,571 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 11:00:27,697 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 11:00:29,814 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 11:00:31,944 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 11:00:38,062 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - date is selected
+2024-01-30 11:03:31,479 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 11:03:33,692 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 11:03:35,799 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 11:03:45,827 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 11:03:45,941 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 11:03:52,108 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 11:03:58,361 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 11:04:04,473 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 11:04:06,596 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 11:04:08,731 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 11:04:14,819 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - date is selected
+2024-01-30 11:08:16,255 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 11:08:18,470 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 11:08:20,596 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 11:08:30,626 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 11:08:30,750 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 11:08:36,893 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 11:08:43,002 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 11:08:49,125 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 11:08:51,219 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 11:08:53,333 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 11:10:05,846 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 11:10:08,019 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 11:10:10,138 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 11:10:20,163 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 11:10:20,284 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 11:10:26,483 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 11:10:32,622 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 11:10:38,768 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 11:10:40,871 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 11:10:42,983 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 12:15:36,659 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 12:15:38,869 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 12:15:40,977 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 12:15:50,990 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 12:15:51,094 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 12:15:57,259 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 12:16:03,430 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 12:16:09,561 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 12:16:11,677 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 12:16:13,824 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 12:16:20,154 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - date is selected
+2024-01-30 12:18:18,337 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 12:18:20,522 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 12:18:22,630 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 12:18:32,659 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 12:18:32,774 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 12:18:38,947 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 12:18:45,082 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 12:18:51,215 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 12:18:53,342 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 12:18:55,478 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 12:19:01,907 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - date is selected
+2024-01-30 12:19:08,624 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Description is entered
+2024-01-30 12:19:10,733 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:19:15,842 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - confirm is Clicked
+2024-01-30 12:25:28,347 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 12:25:30,534 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 12:25:32,645 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 12:25:42,678 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 12:25:42,795 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 12:25:48,941 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 12:25:55,070 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 12:26:01,214 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 12:26:03,415 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 12:26:05,544 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 12:26:12,001 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - date is selected
+2024-01-30 12:26:18,743 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Description is entered
+2024-01-30 12:26:20,853 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:26:26,002 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - previous is Clicked
+2024-01-30 12:26:31,147 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is changed
+2024-01-30 12:26:33,258 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:26:38,386 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - confirm is Clicked
+2024-01-30 12:27:30,554 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 12:27:32,742 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 12:27:34,867 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 12:27:44,885 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 12:27:44,984 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 12:27:51,126 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 12:27:57,243 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 12:28:03,405 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 12:28:05,502 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 12:28:07,622 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 12:28:13,960 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - date is selected
+2024-01-30 12:28:20,656 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Description is entered
+2024-01-30 12:28:22,771 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:28:27,932 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - previous is Clicked
+2024-01-30 12:28:33,203 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is changed
+2024-01-30 12:28:35,297 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:28:40,412 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - confirm is Clicked
+2024-01-30 12:30:29,727 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 12:30:31,888 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 12:30:33,985 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 12:30:44,009 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 12:30:44,122 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 12:30:50,281 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 12:30:56,397 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 12:31:02,572 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 12:31:04,689 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 12:31:06,796 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 12:31:13,119 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - date is selected
+2024-01-30 12:31:19,767 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Description is entered
+2024-01-30 12:31:21,860 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:31:27,003 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - previous is Clicked
+2024-01-30 12:32:44,336 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 12:32:46,506 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 12:32:48,615 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 12:32:58,642 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 12:32:58,765 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 12:33:04,902 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 12:33:11,042 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 12:33:17,157 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 12:33:19,271 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 12:33:21,392 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 12:33:27,725 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - date is selected
+2024-01-30 12:33:34,374 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Description is entered
+2024-01-30 12:33:36,489 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:33:41,624 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - previous is Clicked
+2024-01-30 12:33:46,713 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Previous amount is cleared
+2024-01-30 12:36:32,093 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 12:36:34,257 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 12:36:36,376 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 12:36:46,387 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 12:36:46,486 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 12:36:52,662 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 12:36:58,808 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 12:37:04,958 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 12:37:07,055 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 12:37:09,191 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 12:37:15,519 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - date is selected
+2024-01-30 12:37:22,169 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Description is entered
+2024-01-30 12:37:24,288 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:37:29,431 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - previous is Clicked
+2024-01-30 12:37:34,621 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is changed
+2024-01-30 12:37:36,719 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:37:41,822 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - confirm is Clicked
+2024-01-30 12:38:21,410 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 12:38:23,551 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 12:38:25,652 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 12:38:35,683 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 12:38:35,801 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 12:38:41,937 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 12:38:48,044 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 12:38:54,189 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 12:38:56,281 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 12:38:58,398 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 12:39:04,853 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - date is selected
+2024-01-30 12:39:11,578 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Description is entered
+2024-01-30 12:39:13,689 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:39:18,830 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - previous is Clicked
+2024-01-30 12:39:24,085 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is changed
+2024-01-30 12:39:26,165 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:39:31,256 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - confirm is Clicked
+2024-01-30 12:40:02,089 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 12:40:04,260 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 12:40:06,364 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 12:40:16,391 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 12:40:16,502 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 12:40:22,674 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 12:40:28,844 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 12:40:34,958 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 12:40:37,054 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 12:40:39,165 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 12:40:45,498 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - date is selected
+2024-01-30 12:40:52,122 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Description is entered
+2024-01-30 12:40:54,246 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:40:59,408 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - previous is Clicked
+2024-01-30 12:41:04,742 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is changed
+2024-01-30 12:41:06,867 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:41:11,986 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - confirm is Clicked
+2024-01-30 12:42:01,196 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 12:42:03,360 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 12:42:05,466 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 12:42:15,485 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 12:42:15,607 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 12:42:21,760 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 12:42:27,915 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 12:42:34,032 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 12:42:36,127 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 12:42:38,228 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 12:42:44,567 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - date is selected
+2024-01-30 12:42:51,222 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Description is entered
+2024-01-30 12:42:53,339 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:42:58,481 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - previous is Clicked
+2024-01-30 12:43:03,827 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is changed
+2024-01-30 12:43:05,932 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:43:11,048 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - confirm is Clicked
+2024-01-30 12:45:00,196 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 12:45:02,398 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 12:45:04,510 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 12:45:14,540 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 12:45:14,652 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 12:45:20,794 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 12:45:26,911 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 12:45:33,032 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 12:45:35,143 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 12:45:37,265 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 12:45:43,593 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - date is selected
+2024-01-30 12:45:50,302 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Description is entered
+2024-01-30 12:45:52,418 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:45:57,556 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - previous is Clicked
+2024-01-30 12:46:02,902 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is changed
+2024-01-30 12:46:04,986 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:46:10,097 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - confirm is Clicked
+2024-01-30 12:47:10,515 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 12:47:12,707 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 12:47:14,823 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 12:47:24,856 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 12:47:24,986 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 12:47:31,133 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 12:47:37,338 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 12:47:43,468 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 12:47:45,576 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 12:47:47,695 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 12:47:54,087 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - date is selected
+2024-01-30 12:48:00,884 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Description is entered
+2024-01-30 12:48:02,994 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:48:08,031 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - previous is Clicked
+2024-01-30 12:49:57,114 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 12:49:59,290 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 12:50:01,407 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 12:50:11,421 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 12:50:11,534 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 12:50:17,687 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 12:50:23,823 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 12:50:29,960 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 12:50:32,083 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 12:50:34,228 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 12:50:40,567 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - date is selected
+2024-01-30 12:50:47,210 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Description is entered
+2024-01-30 12:50:49,336 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:50:54,384 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - previous is Clicked
+2024-01-30 12:56:33,931 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 12:56:36,115 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 12:56:38,227 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 12:56:48,255 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 12:56:48,366 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 12:56:54,554 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 12:57:00,988 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 12:57:07,116 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 12:57:09,222 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 12:57:11,330 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 12:57:17,710 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - date is selected
+2024-01-30 12:57:24,344 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Description is entered
+2024-01-30 12:57:26,462 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:57:31,596 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - previous is Clicked
+2024-01-30 12:57:36,983 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is changed
+2024-01-30 12:57:39,092 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 12:57:44,218 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - confirm is Clicked
+2024-01-30 13:37:08,845 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 13:37:11,112 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 13:37:13,221 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 13:37:23,249 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 13:37:23,376 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 13:37:29,519 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 13:37:35,674 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 13:37:41,808 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 13:37:43,899 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 13:37:46,035 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 13:37:52,319 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - date is selected
+2024-01-30 13:37:59,018 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Description is entered
+2024-01-30 13:38:01,211 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 13:38:06,339 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - previous is Clicked
+2024-01-30 13:38:11,690 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is changed
+2024-01-30 13:38:13,773 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 13:38:18,874 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - confirm is Clicked
+2024-01-30 13:39:19,204 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - UserName Entered
+2024-01-30 13:39:21,397 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Password Entered
+2024-01-30 13:39:23,531 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Login clicked
+2024-01-30 13:39:33,564 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Application Navigated to Dashboard page
+2024-01-30 13:39:33,677 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay User is Clicked
+2024-01-30 13:39:39,852 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - to_user pick from contact list is clicked
+2024-01-30 13:39:45,973 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - user is selected
+2024-01-30 13:39:52,115 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is entered
+2024-01-30 13:39:54,238 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Scheduling is clicked
+2024-01-30 13:39:56,366 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Pay Now scheduling method is selected
+2024-01-30 13:40:02,604 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - date is selected
+2024-01-30 13:40:09,316 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Description is entered
+2024-01-30 13:40:11,416 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 13:40:16,561 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - previous is Clicked
+2024-01-30 13:40:21,965 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is changed
+2024-01-30 13:40:24,045 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
+2024-01-30 13:40:29,173 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - confirm is Clicked

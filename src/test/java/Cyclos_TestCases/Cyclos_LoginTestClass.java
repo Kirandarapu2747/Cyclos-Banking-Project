@@ -24,9 +24,9 @@ public class Cyclos_LoginTestClass extends Cyclos_LoginBaseClass
 	Thread.sleep(2000);
 	clp.ClickLogin();
 	log.info("Login clicked");
-	Thread.sleep(2000);
+	Thread.sleep(10000);
 	
-	String Exp_Result="Login - Cyclos11";
+	String Exp_Result="Dashboard - Cyclos";
 	String Act_Result=driver.getTitle();
 	
 	if(Act_Result.equals(Exp_Result))
