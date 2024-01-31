@@ -7,13 +7,13 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="Cyclos_TestCases.PayUser_TestCase_Unhappypath">
+      <class name="Cyclos_TestCases.PayUser_TestCase_Installments">
         <methods>
           <include name="OpenApplication"/>
           <include name="CloseApplication"/>
           <include name="PayUser"/>
         </methods>
-      </class> <!-- Cyclos_TestCases.PayUser_TestCase_Unhappypath -->
+      </class> <!-- Cyclos_TestCases.PayUser_TestCase_Installments -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

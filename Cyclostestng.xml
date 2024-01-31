@@ -7,7 +7,9 @@
   <test thread-count="5" name="Test">
 	  <parameter name="browser" value="chrome"></parameter>
     <classes>
-            <class name="Cyclos_TestCases.PayUser_TestCase_Unhappypath"/>
+		<class name="Cyclos_TestCases.PayUser_TestCase_HappypathIntegration"/>
+        <!--<class name="Cyclos_TestCases.PayUser_TestCase_Installments"/>-->
+        <!--<class name="Cyclos_TestCases.PayUser_TestCase_Unhappypath"/>-->
         <!--<class name="Cyclos_TestCases.PayUser_TestCase_Happypath"/>-->
         <!--<class name="Cyclos_TestCases.Cyclos_LoginTestClass"/>-->
         <!--<class name="Cyclos_TestCases.Cyclos_RegisterTestClass"/>-->

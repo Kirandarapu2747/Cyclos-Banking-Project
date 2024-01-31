@@ -1661,3 +1661,56 @@
 2024-01-30 13:40:21,965 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Amount is changed
 2024-01-30 13:40:24,045 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - Next is Clicked
 2024-01-30 13:40:29,173 - Cyclos_TestCases.PayUser_TestCase_Unhappypath -INFO - confirm is Clicked
+2024-01-30 16:57:43,477 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - UserName Entered
+2024-01-30 16:57:45,851 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Password Entered
+2024-01-30 16:57:47,978 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Login clicked
+2024-01-30 16:57:57,998 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Application Navigated to Dashboard page
+2024-01-30 16:57:58,130 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Pay User is Clicked
+2024-01-30 16:58:04,295 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - to_user pick from contact list is clicked
+2024-01-30 16:58:12,203 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - user is selected
+2024-01-30 16:58:18,344 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Amount is entered
+2024-01-30 16:58:20,487 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Scheduling is clicked
+2024-01-30 16:58:22,618 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Pay Now scheduling method is selected
+2024-01-30 17:04:31,633 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - UserName Entered
+2024-01-30 17:04:33,900 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Password Entered
+2024-01-30 17:04:36,001 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Login clicked
+2024-01-30 17:04:46,030 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Application Navigated to Dashboard page
+2024-01-30 17:04:46,153 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Pay User is Clicked
+2024-01-30 17:04:52,295 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - to_user pick from contact list is clicked
+2024-01-30 17:04:58,410 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - user is selected
+2024-01-30 17:05:04,566 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Amount is entered
+2024-01-30 17:05:06,686 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Scheduling is clicked
+2024-01-30 17:05:09,462 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Pay Now scheduling method is selected
+2024-01-30 17:05:15,631 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - No.of installments is entered
+2024-01-30 17:16:24,908 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - UserName Entered
+2024-01-30 17:16:28,989 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Password Entered
+2024-01-30 17:16:31,104 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Login clicked
+2024-01-30 17:16:41,129 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Application Navigated to Dashboard page
+2024-01-30 17:16:41,239 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Pay User is Clicked
+2024-01-30 17:16:47,404 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - to_user pick from contact list is clicked
+2024-01-30 17:16:53,522 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - user is selected
+2024-01-30 17:16:59,642 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Amount is entered
+2024-01-30 17:17:01,816 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Scheduling is clicked
+2024-01-30 17:17:03,961 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Pay Now scheduling method is selected
+2024-01-30 17:17:10,087 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - No.of installments is entered
+2024-01-30 17:20:38,999 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - UserName Entered
+2024-01-30 17:20:41,138 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Password Entered
+2024-01-30 17:20:43,264 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Login clicked
+2024-01-30 17:20:53,286 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Application Navigated to Dashboard page
+2024-01-30 17:20:53,391 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Pay User is Clicked
+2024-01-30 17:20:59,485 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - to_user pick from contact list is clicked
+2024-01-30 17:32:46,342 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - UserName Entered
+2024-01-30 17:32:48,520 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Password Entered
+2024-01-30 17:32:50,627 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Login clicked
+2024-01-30 17:33:00,654 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Application Navigated to Dashboard page
+2024-01-30 17:33:00,778 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Pay User is Clicked
+2024-01-30 17:33:06,923 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - to_user pick from contact list is clicked
+2024-01-30 17:33:13,044 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - user is selected
+2024-01-30 17:33:19,172 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Amount is entered
+2024-01-30 17:33:21,294 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Scheduling is clicked
+2024-01-30 17:33:23,426 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Pay Now scheduling method is selected
+2024-01-30 17:33:29,553 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - No.of installments is entered
+2024-01-30 17:33:31,655 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - First Installment Now is clicked
+2024-01-30 17:33:34,485 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Description is entered
+2024-01-30 17:33:36,609 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - Next is Clicked
+2024-01-30 17:33:41,738 - Cyclos_TestCases.PayUser_TestCase_Installments -INFO - confirm is Clicked
