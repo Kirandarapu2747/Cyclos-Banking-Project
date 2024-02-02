@@ -68,7 +68,7 @@ public class PayUser_TestCase_Unhappypath extends Cyclos_LoginBaseClass
 		
 		WebElement scheduling_method=driver.findElement(By.xpath("//div[@role='listbox']//a[2]"));
 		scheduling_method.click();
-		log.info("Pay Now scheduling method is selected");
+		log.info("Scheduled scheduling method is selected");
 		Thread.sleep(6000);
 		
 		WebElement date=driver.findElement(By.xpath("//input[@type='date']"));
@@ -96,11 +96,12 @@ public class PayUser_TestCase_Unhappypath extends Cyclos_LoginBaseClass
 		Thread.sleep(5000);
 		
 		WebElement amount1=driver.findElement(By.xpath("//input[@type='tel']"));
+		amount1.click();
 		for(int i=0;i<5;i++)
 		{
-		amount1.sendKeys(Keys.BACK_SPACE);
+		amount.sendKeys(Keys.BACK_SPACE);
 		}
-        amount1.sendKeys("3");
+        amount.sendKeys("3");
         log.info("Amount is changed");
 	    Thread.sleep(2000);
 	    

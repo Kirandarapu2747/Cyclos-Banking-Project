@@ -67,7 +67,7 @@ public class PayUser_TestCase_Installments extends Cyclos_LoginBaseClass
 			
 			WebElement scheduling_method=driver.findElement(By.xpath("//div[@role='listbox']//a[3]"));
 			scheduling_method.click();
-			log.info("Pay Now scheduling method is selected");
+			log.info("Installments Scheduling payment method is selected");
 			Thread.sleep(6000);
 			
 			WebElement installments=driver.findElement(By.xpath("//input[@type='number']"));

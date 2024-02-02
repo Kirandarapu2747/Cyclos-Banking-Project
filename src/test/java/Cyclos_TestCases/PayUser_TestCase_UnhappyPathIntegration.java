@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import Cyclos_PageObjects.Cyclos_LoginPage;
 import Cyclos_PageObjects.Cyclos_PayUser;
 
-public class PayUser_TestCase_HappyPathIntegtration extends Cyclos_LoginBaseClass
+public class PayUser_TestCase_UnhappyPathIntegration extends Cyclos_LoginBaseClass
 {
 	@Test()
 	public void PayUser() throws InterruptedException, IOException
@@ -58,14 +58,26 @@ public class PayUser_TestCase_HappyPathIntegtration extends Cyclos_LoginBaseClas
 	    cpu.clickscheduling();
 	    log.info("Scheduling is clicked");
 		Thread.sleep(2000);
-		cpu.clickscheduling_method();
-		log.info("Pay Now scheduling method is selected");
+		cpu.clickscheduling_method1();
+		log.info("Scheduled scheduling method is selected");
+		Thread.sleep(6000);
+		cpu.setdate();
+		log.info("date is selected");
 		Thread.sleep(6000);
 		cpu.enterdescription();
 		log.info("Description is entered");
 		Thread.sleep(2000);
 		cpu.clicknext();
 		log.info("Next is Clicked");
+		Thread.sleep(5000);
+		cpu.clickprevious();
+		log.info("previous is Clicked");
+		Thread.sleep(5000);
+		cpu.setamount1();
+		log.info("Amount is changed");
+	    Thread.sleep(2000);
+	    cpu.clicknext1();
+	    log.info("Next is Clicked");
 		Thread.sleep(5000);
 		cpu.clickconfirm();
 		log.info("confirm is Clicked");
@@ -74,5 +86,4 @@ public class PayUser_TestCase_HappyPathIntegtration extends Cyclos_LoginBaseClas
 		log.info("Print is Clicked");
 	    Thread.sleep(5000);	
 	}
-
 }

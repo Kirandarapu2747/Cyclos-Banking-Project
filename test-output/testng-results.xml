@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-30T17:32:31 IST" name="Suite" finished-at="2024-01-30T17:33:47 IST" duration-ms="75657">
+  <suite started-at="2024-02-02T14:32:31 IST" name="Suite" finished-at="2024-02-02T14:33:54 IST" duration-ms="83712">
     <groups>
     </groups>
-    <test started-at="2024-01-30T17:32:31 IST" name="Test" finished-at="2024-01-30T17:33:47 IST" duration-ms="75657">
-      <class name="Cyclos_TestCases.PayUser_TestCase_Installments">
-        <test-method is-config="true" signature="OpenApplication(java.lang.String)[pri:0, instance:Cyclos_TestCases.PayUser_TestCase_Installments@3c46e67a]" started-at="2024-01-30T17:32:32 IST" name="OpenApplication" finished-at="2024-01-30T17:32:44 IST" duration-ms="11347" status="PASS">
+    <test started-at="2024-02-02T14:32:31 IST" name="Test" finished-at="2024-02-02T14:33:54 IST" duration-ms="83712">
+      <class name="Cyclos_TestCases.PayUser_TestCase_InstallmentsIntegration">
+        <test-method is-config="true" signature="OpenApplication(java.lang.String)[pri:0, instance:Cyclos_TestCases.PayUser_TestCase_InstallmentsIntegration@49139829]" started-at="2024-02-02T14:32:32 IST" name="OpenApplication" finished-at="2024-02-02T14:32:45 IST" duration-ms="13204" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenApplication -->
-        <test-method signature="PayUser()[pri:0, instance:Cyclos_TestCases.PayUser_TestCase_Installments@3c46e67a]" started-at="2024-01-30T17:32:44 IST" name="PayUser" finished-at="2024-01-30T17:33:46 IST" duration-ms="62699" status="PASS">
+        <test-method signature="PayUser()[pri:0, instance:Cyclos_TestCases.PayUser_TestCase_InstallmentsIntegration@49139829]" started-at="2024-02-02T14:32:45 IST" name="PayUser" finished-at="2024-02-02T14:33:51 IST" duration-ms="65276" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PayUser -->
-        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:Cyclos_TestCases.PayUser_TestCase_Installments@3c46e67a]" started-at="2024-01-30T17:33:46 IST" name="CloseApplication" finished-at="2024-01-30T17:33:47 IST" duration-ms="395" status="PASS">
+        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:Cyclos_TestCases.PayUser_TestCase_InstallmentsIntegration@49139829]" started-at="2024-02-02T14:33:51 IST" name="CloseApplication" finished-at="2024-02-02T14:33:54 IST" duration-ms="3588" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseApplication -->
-      </class> <!-- Cyclos_TestCases.PayUser_TestCase_Installments -->
+      </class> <!-- Cyclos_TestCases.PayUser_TestCase_InstallmentsIntegration -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
